@@ -13,4 +13,3 @@ players_df['now_cost'] = players_df['now_cost'].apply(
 
 players_df.to_csv('data/cleaned_players.csv', index=False)
  
-print(pd.__version__)
