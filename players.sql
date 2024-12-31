@@ -3,6 +3,25 @@
 
 -- Data points to consider:
 -- cost (now_cost)
+
+-- Most Expensive Picks 1-15
+SELECT name, now_cost 
+FROM players 
+ORDER BY now_cost DESC
+LIMIT 15;
+
+-- Most Expensive Picks Each Position
+-- First
+SELECT name, position, now_cost, now_cost_rank_type
+FROM players
+WHERE now_cost_rank_type = 1;
+
+-- Top 5
+SELECT name, position, now_cost, now_cost_rank_type
+FROM players
+WHERE players.now_cost_rank_type BETWEEN 1 AND 5
+ORDER BY now_cost_rank_type ASC;
+
 -- position
 -- team
 -- total_points
