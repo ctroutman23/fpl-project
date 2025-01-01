@@ -40,7 +40,6 @@ FROM RankedPlayers
 WHERE rank <= 5
 ORDER BY position, now_cost_rank_type ASC;
 
--- position
 -- Which players score the msot points?
 -- Top 15
 SELECT name, total_points
@@ -54,8 +53,41 @@ FROM players
 WHERE total_points >= 40
 GROUP BY position;
 
--- team
--- total_points
+-- Which team has the most fantasy points so far?
+DROP VIEW team_total_fpl_points;
+CREATE VIEW team_total_fpl_points AS
+SELECT 
+    DISTINCT team, 
+    SUM(total_points) OVER (PARTITION BY team) AS team_total_points
+FROM 
+    players
+ORDER BY 
+    team_total_points DESC
+
+
+-- Which players have the highest percentage of their
+-- team's fantasy points (ordered by best to worst teams)?
+-- DROP VIEW player_team_points_percentage;
+CREATE VIEW player_team_points_percentage AS
+SELECT 
+    p.name,
+    p.team,
+    p.total_points,
+    ttfp.team_total_points,
+    ROUND((p.total_points * 100.0) / ttfp.team_total_points, 2) AS percentage_of_team_points 
+FROM
+    players AS p
+JOIN
+   team_total_fpl_points AS ttfp 
+ON
+    p.team = ttfp.team
+WHERE 
+    (p.total_points * 100.0) / ttfp.team_total_points  >= 10 --players with 10% or more of their team's points
+ORDER BY
+    team_total_points DESC,
+    percentage_of_team_points DESC;    
+
+
 -- assists
 -- expected_assists_per_90
 -- goals (goals_scored)
