@@ -22,6 +22,7 @@ WHERE players.now_cost_rank_type BETWEEN 1 AND 5
 ORDER BY now_cost_rank_type ASC;
 
 -- Window function to refine the above query
+CREATE VIEW most_expensive_players_by_position AS
 WITH RankedPlayers AS (
     SELECT
         name,
@@ -54,7 +55,7 @@ WHERE total_points >= 40
 GROUP BY position;
 
 -- Which team has the most fantasy points so far?
-DROP VIEW team_total_fpl_points;
+-- DROP VIEW team_total_fpl_points;
 CREATE VIEW team_total_fpl_points AS
 SELECT 
     DISTINCT team, 
@@ -88,11 +89,44 @@ ORDER BY
     percentage_of_team_points DESC;    
 
 
--- assists
--- expected_assists_per_90
--- goals (goals_scored)
--- expected_goals_per_90
--- expected_goal_involvments_per_90
+-- Best Picks for Attacking returns
+SELECT 
+    name,
+    team,
+    total_points,
+    goals_scored,
+    expected_goals_per_90,
+    assists, 
+    expected_assists_per_90,
+    expected_goal_involvements_per_90
+FROM
+    players
+ORDER BY
+    total_points DESC
+LIMIT 50;
+
+-- Are goals scorers under or overperforming?
+CREATE VIEW goal_performance_vs_goal_expectations AS
+SELECT
+    name,
+    team,
+    expected_goals,
+    goals_scored,
+    ROUND(goals_scored - expected_goals, 2) AS finishing,
+    CASE 
+        WHEN expected_goals > goals_scored THEN 'Underperforming'
+        WHEN expected_goals < goals_scored THEN 'Overperforming'
+        ELSE 'Performing'
+    END AS finishing_evaluation
+FROM    
+    players
+WHERE
+    goals_scored >= 3
+ORDER BY
+    goals_scored DESC,
+    finishing DESC;
+
+
 -- creativity
 -- creativity_rank
 -- influence_rank
