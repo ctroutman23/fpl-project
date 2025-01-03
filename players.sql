@@ -106,9 +106,11 @@ ORDER BY
 LIMIT 50;
 
 -- Are goals scorers under or overperforming?
+-- DROP VIEW goal_performance_vs_goal_expectations;
 CREATE VIEW goal_performance_vs_goal_expectations AS
 SELECT
     name,
+    position,
     team,
     expected_goals,
     goals_scored,
@@ -126,6 +128,74 @@ ORDER BY
     goals_scored DESC,
     finishing DESC;
 
+
+-- Total Fantasy Point Breakdown by category for each player in top 50 total points
+CREATE VIEW fantasy_point_breakdown_by_category AS
+SELECT 
+    name,
+    position,
+    team,
+    total_points,
+    -- goals
+    CASE  
+        WHEN position = 'FWD' THEN goals_scored * 4 
+        WHEN position = 'MID' THEN goals_scored * 5
+        WHEN position = 'DEF' THEN goals_scored * 6
+        ELSE goals_scored * 10
+    END AS goal_points,
+    -- assists
+    (assists * 3) AS assist_points,
+    -- clean sheets
+    CASE
+        WHEN position = 'MID' THEN clean_sheets * 1 
+        WHEN position = 'DEF' OR 'GKP' THEN clean_sheets * 4
+        ELSE clean_sheets * 0
+    END AS clean_sheet_points, 
+    -- saves
+    CASE
+        WHEN position = 'GK' THEN saves / 3 
+        ELSE saves * 0
+    END AS save_points,
+    -- penalty saves
+    CASE
+        WHEN position = 'GK' THEN penalties_saved * 5 
+        ELSE penalties_saved * 0
+    END AS penalty_save_points,
+    -- bonus points
+    bonus,
+    -- minutes
+    
+    -- yellow cards
+    (yellow_cards * -1)
+    -- red cards
+    (red_cards * -3)
+    -- own goals
+    (own_goals * -2)
+    -- penalties missed
+    (penalties_missed * -2) AS penalty_miss_points
+    -- goals conceded
+    (goals_conceded / -2) AS goals_conceded_points
+
+FROM
+    players
+ORDER BY
+    total_points;
+
+
+-- Goals Conceded numbers for players and teams
+CREATE VIEW goals_conceded_by_team_and_player AS
+SELECT 
+    name, 
+    team, 
+    position, 
+    goals_conceded, 
+    COUNT(goals_conceded) AS team_goals_conceded
+FROM
+    players
+GROUP BY 
+    team
+ORDER BY
+    goals_conceded DESC;
 
 -- creativity
 -- creativity_rank
