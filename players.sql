@@ -41,6 +41,8 @@ FROM RankedPlayers
 WHERE rank <= 5
 ORDER BY position, now_cost_rank_type ASC;
 
+
+
 -- Which players score the msot points?
 -- Top 15
 SELECT name, total_points
@@ -129,57 +131,86 @@ ORDER BY
     finishing DESC;
 
 
--- Total Fantasy Point Breakdown by category for each player in top 50 total points
+-- Total Fantasy Point Breakdown by category for each player, rannked by total points
 CREATE VIEW fantasy_point_breakdown_by_category AS
-SELECT 
+WITH fantasy_points_breakdown AS (
+    SELECT 
+        name,
+        position,
+        team,
+        total_points,
+        -- minutes/apperance points
+        (starts + CASE 
+            WHEN (minutes / starts) >= 60 THEN starts 
+            ELSE 0 END) AS appearance_points,
+        -- goals
+        CASE  
+            WHEN position = 'FWD' THEN goals_scored * 4 
+            WHEN position = 'MID' THEN goals_scored * 5
+            WHEN position = 'DEF' THEN goals_scored * 6
+            ELSE goals_scored * 10
+        END AS goal_points,
+        -- assists
+        (assists * 3) AS assist_points,
+        -- clean sheets
+        CASE
+            WHEN position = 'MID' THEN clean_sheets * 1 
+            WHEN position IN ('DEF', 'GKP') THEN clean_sheets * 4
+            ELSE clean_sheets * 0
+        END AS clean_sheet_points, 
+        -- saves
+        CASE
+            WHEN position = 'GKP' THEN saves / 3 
+            ELSE 0
+        END AS save_points,
+        -- penalty saves
+        CASE
+            WHEN position = 'GKP' THEN penalties_saved * 5 
+            ELSE 0
+        END AS penalty_save_points,
+        -- bonus points
+        bonus AS bonus_points,
+        -- yellow cards
+        (yellow_cards * -1) AS yellow_card_points,
+        -- red cards
+        (red_cards * -3) AS red_card_points,
+        -- own goals
+        (own_goals * -2) AS own_goal_points,
+        -- penalties missed
+        (penalties_missed * -2) AS penalty_miss_points
+    FROM
+        players
+)
+SELECT
     name,
     position,
     team,
     total_points,
-    -- goals
-    CASE  
-        WHEN position = 'FWD' THEN goals_scored * 4 
-        WHEN position = 'MID' THEN goals_scored * 5
-        WHEN position = 'DEF' THEN goals_scored * 6
-        ELSE goals_scored * 10
-    END AS goal_points,
-    -- assists
-    (assists * 3) AS assist_points,
-    -- clean sheets
-    CASE
-        WHEN position = 'MID' THEN clean_sheets * 1 
-        WHEN position = 'DEF' OR 'GKP' THEN clean_sheets * 4
-        ELSE clean_sheets * 0
-    END AS clean_sheet_points, 
-    -- saves
-    CASE
-        WHEN position = 'GK' THEN saves / 3 
-        ELSE saves * 0
-    END AS save_points,
-    -- penalty saves
-    CASE
-        WHEN position = 'GK' THEN penalties_saved * 5 
-        ELSE penalties_saved * 0
-    END AS penalty_save_points,
-    -- bonus points
-    bonus,
-    -- minutes
-    
-    -- yellow cards
-    (yellow_cards * -1)
-    -- red cards
-    (red_cards * -3)
-    -- own goals
-    (own_goals * -2)
-    -- penalties missed
-    (penalties_missed * -2) AS penalty_miss_points
+    appearance_points,
+    goal_points,
+    assist_points,
+    clean_sheet_points,
+    save_points,
+    penalty_save_points,
+    bonus_points,
+    yellow_card_points,
+    red_card_points,
+    own_goal_points,
+    penalty_miss_points,
     -- goals conceded
-    (goals_conceded / -2) AS goals_conceded_points
-
+    CASE
+         WHEN position IN ('DEF', 'GKP') THEN
+            (total_points - (appearance_points + goal_points + assist_points + 
+            clean_sheet_points + save_points + penalty_save_points + bonus_points + 
+            yellow_card_points + red_card_points + own_goal_points + 
+            penalty_miss_points)) 
+         ELSE 0
+    END AS goals_conceded_points
 FROM
-    players
+    fantasy_points_breakdown
 ORDER BY
-    total_points;
+    total_points DESC;
+
 
 
 -- Goals Conceded numbers for players and teams
