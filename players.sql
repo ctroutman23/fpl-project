@@ -92,20 +92,29 @@ ORDER BY
 
 
 -- Best Picks for Attacking returns
+CREATE VIEW attacking_numbers AS
 SELECT 
     name,
     team,
     total_points,
+    starts,
     goals_scored,
+    expected_goals,
     expected_goals_per_90,
     assists, 
+    expected_assists,
     expected_assists_per_90,
-    expected_goal_involvements_per_90
+    expected_goal_involvements_per_90,
+    ict_index,
+    threat,
+    creativity,
+    influence,
+    penalties_order,
+    direct_freekicks_order
 FROM
     players
 ORDER BY
-    total_points DESC
-LIMIT 50;
+    total_points DESC;
 
 -- Are goals scorers under or overperforming?
 -- DROP VIEW goal_performance_vs_goal_expectations;
@@ -129,6 +138,7 @@ WHERE
 ORDER BY
     goals_scored DESC,
     finishing DESC;
+
 
 
 -- Total Fantasy Point Breakdown by category for each player, rannked by total points
@@ -197,6 +207,7 @@ SELECT
     red_card_points,
     own_goal_points,
     penalty_miss_points,
+    -- the dataset is missing the data we need to calculate penalty-conceded points
     -- goals conceded
     CASE
          WHEN position IN ('DEF', 'GKP') THEN
@@ -210,6 +221,12 @@ FROM
     fantasy_points_breakdown
 ORDER BY
     total_points DESC;
+
+
+-- Points scored by players from top 6 teams
+SELECT * FROM fantasy_point_breakdown_by_category
+WHERE team IN ("Liverpool", "Arsenal", "Chelsea", "Nott'm Forest", "Newcastle", "Man City");
+
 
 
 
@@ -227,6 +244,8 @@ GROUP BY
     team
 ORDER BY
     goals_conceded DESC;
+
+
 
 -- creativity
 -- creativity_rank
