@@ -1,4 +1,4 @@
-#put into requirements.txt later
+# Import packages
 import pandas as pd
 import sqlite3
 
@@ -67,6 +67,7 @@ except Exception as e:
 players_df.to_csv('data/cleaned_players.csv', index=False)
 
 # Set up sqlite connection and create a players table in players.db
-conn = sqlite3.connect('data/players.db')
+conn = sqlite3.connect('data/fpl_picks.db')
 
 players_df.to_sql("players", conn, if_exists="replace", index=False)
+

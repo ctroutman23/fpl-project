@@ -116,6 +116,11 @@ FROM
 ORDER BY
     total_points DESC;
 
+
+-- Percentage players have of their team's goals
+
+
+
 -- Are goals scorers under or overperforming?
 -- DROP VIEW goal_performance_vs_goal_expectations;
 CREATE VIEW goal_performance_vs_goal_expectations AS
@@ -229,7 +234,6 @@ WHERE team IN ("Liverpool", "Arsenal", "Chelsea", "Nott'm Forest", "Newcastle", 
 
 
 
-
 -- Goals Conceded numbers for players and teams
 CREATE VIEW goals_conceded_by_team_and_player AS
 SELECT 
@@ -244,6 +248,10 @@ GROUP BY
     team
 ORDER BY
     goals_conceded DESC;
+
+
+-- Best picks for defensive returns
+
 
 
 
