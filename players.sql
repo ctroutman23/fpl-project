@@ -3,6 +3,9 @@
 
 -- Data points to consider:
 
+
+-- GENERAL INFO
+
 -- Most Expensive Picks 1-15
 SELECT name, now_cost 
 FROM players 
@@ -42,7 +45,6 @@ WHERE rank <= 5
 ORDER BY position, now_cost_rank_type ASC;
 
 
-
 -- Which players score the most points?
 -- Top 15
 SELECT name, total_points
@@ -56,10 +58,11 @@ FROM players
 WHERE total_points >= 40
 GROUP BY position;
 
+
+
 -- TEAM NUMBERS
 
 -- Which team has the most fantasy points so far?
--- DROP VIEW team_total_fpl_points;
 CREATE VIEW team_total_fpl_points AS
 SELECT 
     DISTINCT team, 
@@ -104,22 +107,25 @@ GROUP BY team
 ORDER BY (SUM(goals_scored) + SUM(assists)) DESC;
 
 -- Percentage players have of their team's goal involvements(goals and assists)
-SELECT * FROM team_goal_involvement_numbers
-
--- Goals Conceded numbers for players and teams
-CREATE VIEW goals_conceded_by_team_and_player AS
 SELECT 
-    name, 
-    team, 
-    position, 
-    goals_conceded, 
-    COUNT(goals_conceded) AS team_goals_conceded
+    players.name,
+    players.goals_scored,
+    players.assists,
+    (players.goals_scored + players.assists) AS total_player_goal_involvement,
+    ROUND(((players.goals_scored + players.assists) * 1.0 / team_goal_involvement_numbers.total_team_goal_involvement) * 100, 2) AS player_goal_inv_perc,
+    team_goal_involvement_numbers.*
 FROM
-    players
-GROUP BY 
-    team
+    team_goal_involvement_numbers
+JOIN players ON team_goal_involvement_numbers.team = players.team
 ORDER BY
-    goals_conceded DESC;
+    ROUND(((players.goals_scored + players.assists) * 1.0 / team_goal_involvement_numbers.total_team_goal_involvement) * 100, 2) DESC;
+
+-- WHich teams are under/over performing their numbers?
+
+-- Attack
+
+
+-- Defense
 
 
 -- ATTACKING PICKS
@@ -151,7 +157,6 @@ ORDER BY
 
 
 -- Are goals scorers under or overperforming?
--- DROP VIEW goal_performance_vs_goal_expectations;
 CREATE VIEW goal_performance_vs_goal_expectations AS
 SELECT
     name,
@@ -172,7 +177,6 @@ WHERE
 ORDER BY
     goals_scored DESC,
     finishing DESC;
-
 
 
 -- Total Fantasy Point Breakdown by category for each player, rannked by total points
@@ -260,6 +264,7 @@ ORDER BY
 -- Points scored by players from top 6 teams
 SELECT * FROM fantasy_point_breakdown_by_category
 WHERE team IN ("Liverpool", "Arsenal", "Chelsea", "Nott'm Forest", "Newcastle", "Man City");
+
 
 
 -- DEFENSIVE PICKS
