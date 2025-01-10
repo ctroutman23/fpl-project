@@ -43,7 +43,7 @@ ORDER BY position, now_cost_rank_type ASC;
 
 
 
--- Which players score the msot points?
+-- Which players score the most points?
 -- Top 15
 SELECT name, total_points
 FROM players
@@ -55,6 +55,8 @@ SELECT position, SUM(total_points)
 FROM players
 WHERE total_points >= 40
 GROUP BY position;
+
+-- TEAM NUMBERS
 
 -- Which team has the most fantasy points so far?
 -- DROP VIEW team_total_fpl_points;
@@ -70,7 +72,6 @@ ORDER BY
 
 -- Which players have the highest percentage of their
 -- team's fantasy points (ordered by best to worst teams)?
--- DROP VIEW player_team_points_percentage;
 CREATE VIEW player_team_points_percentage AS
 SELECT 
     p.name,
@@ -90,6 +91,38 @@ ORDER BY
     team_total_points DESC,
     percentage_of_team_points DESC;    
 
+
+-- Goal involvement numbers by team
+CREATE VIEW team_goal_involvement_numbers AS
+SELECT 
+    team, 
+    SUM(goals_scored) AS total_team_goals,
+    SUM(assists) AS total_team_assists,
+    (SUM(goals_scored) + SUM(assists)) AS total_team_goal_involvement
+FROM players
+GROUP BY team
+ORDER BY (SUM(goals_scored) + SUM(assists)) DESC;
+
+-- Percentage players have of their team's goal involvements(goals and assists)
+SELECT * FROM team_goal_involvement_numbers
+
+-- Goals Conceded numbers for players and teams
+CREATE VIEW goals_conceded_by_team_and_player AS
+SELECT 
+    name, 
+    team, 
+    position, 
+    goals_conceded, 
+    COUNT(goals_conceded) AS team_goals_conceded
+FROM
+    players
+GROUP BY 
+    team
+ORDER BY
+    goals_conceded DESC;
+
+
+-- ATTACKING PICKS
 
 -- Best Picks for Attacking returns
 CREATE VIEW attacking_numbers AS
@@ -115,10 +148,6 @@ FROM
     players
 ORDER BY
     total_points DESC;
-
-
--- Percentage players have of their team's goals
-
 
 
 -- Are goals scorers under or overperforming?
@@ -233,40 +262,33 @@ SELECT * FROM fantasy_point_breakdown_by_category
 WHERE team IN ("Liverpool", "Arsenal", "Chelsea", "Nott'm Forest", "Newcastle", "Man City");
 
 
-
--- Goals Conceded numbers for players and teams
-CREATE VIEW goals_conceded_by_team_and_player AS
-SELECT 
-    name, 
-    team, 
-    position, 
-    goals_conceded, 
-    COUNT(goals_conceded) AS team_goals_conceded
-FROM
-    players
-GROUP BY 
-    team
-ORDER BY
-    goals_conceded DESC;
-
+-- DEFENSIVE PICKS
 
 -- Best picks for defensive returns
+CREATE VIEW defensive_numbers AS
+SELECT 
+    name,
+    team,
+    position,
+    total_points,
+    starts,
+    minutes,
+    clean_sheets,
+    clean_sheets_per_90,
+    saves,
+    saves_per_90,
+    penalties_saved,
+    goals_conceded,
+    goals_conceded_per_90,
+    expected_goals_conceded,
+    expected_goals_conceded_per_90,
+    bps
+FROM
+    players
+WHERE
+    position IN ('DEF', 'GKP')
+ORDER BY
+    total_points DESC;
 
 
-
-
--- creativity
--- creativity_rank
--- influence_rank
--- threat
--- clean_sheets_per_90
--- clean_sheets
--- expected_goals_conceded_per_90
--- saves
--- saves_per_90
--- minutes
--- starts
--- starts_per_90
--- bonus (bps)
---status (a - available, u - unavailable)
 
