@@ -70,7 +70,7 @@ SELECT
 FROM 
     players
 ORDER BY 
-    team_total_points DESC
+    team_total_points DESC;
 
 
 -- Which players have the highest percentage of their
@@ -95,18 +95,26 @@ ORDER BY
     percentage_of_team_points DESC;    
 
 
--- Goal involvement numbers by team
+-- Goal involvement numbers by team (expected and actual)
 CREATE VIEW team_goal_involvement_numbers AS
 SELECT 
     team, 
     SUM(goals_scored) AS total_team_goals,
+    SUM(expected_goals) AS team_expected_goals,
+    ROUND(SUM(goals_scored) - SUM(expected_goals), 2) AS xg_goal_dif,
     SUM(assists) AS total_team_assists,
-    (SUM(goals_scored) + SUM(assists)) AS total_team_goal_involvement
+    SUM(expected_assists) AS team_expected_assists,
+    ROUND(SUM(assists) - SUM(expected_assists), 2) AS xg_ast_dif,
+    (SUM(goals_scored) + SUM(assists)) AS total_team_goal_involvement,
+    (SUM(expected_goals) + SUM(expected_assists)) AS total_exp_team_goal_involvement,
+    ROUND((SUM(goals_scored) + SUM(assists)) - (SUM(expected_goals) + SUM(expected_assists)), 2) AS xg_goal_involvement_dif
 FROM players
 GROUP BY team
 ORDER BY (SUM(goals_scored) + SUM(assists)) DESC;
 
+
 -- Percentage players have of their team's goal involvements(goals and assists)
+CREATE VIEW player_percent_of_team_goal_involvement AS 
 SELECT 
     players.name,
     players.goals_scored,
@@ -120,12 +128,6 @@ JOIN players ON team_goal_involvement_numbers.team = players.team
 ORDER BY
     ROUND(((players.goals_scored + players.assists) * 1.0 / team_goal_involvement_numbers.total_team_goal_involvement) * 100, 2) DESC;
 
--- WHich teams are under/over performing their numbers?
-
--- Attack
-
-
--- Defense
 
 
 -- ATTACKING PICKS
