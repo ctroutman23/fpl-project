@@ -7,6 +7,7 @@
 -- GENERAL INFO
 
 -- Most Expensive Picks 1-15
+CREATE VIEW most_expensive_picks AS
 SELECT name, now_cost 
 FROM players 
 ORDER BY now_cost DESC
@@ -47,12 +48,14 @@ ORDER BY position, now_cost_rank_type ASC;
 
 -- Which players score the most points?
 -- Top 15
+CREATE VIEW top_15_players AS
 SELECT name, total_points
 FROM players
 ORDER BY total_points DESC
 LIMIT 15;
 
 -- WHich position scores the most points?
+CREATE VIEW fpl_points_by_position AS
 SELECT position, SUM(total_points)
 FROM players
 WHERE total_points >= 40
@@ -129,6 +132,10 @@ ORDER BY
     ROUND(((players.goals_scored + players.assists) * 1.0 / team_goal_involvement_numbers.total_team_goal_involvement) * 100, 2) DESC;
 
 
+-- Points scored by players from top 6 teams
+CREATE VIEW best_picks_best_teams AS
+SELECT * FROM fantasy_point_breakdown_by_category
+WHERE team IN ("Liverpool", "Arsenal", "Chelsea", "Nott'm Forest", "Newcastle", "Man City");
 
 -- ATTACKING PICKS
 
@@ -261,11 +268,6 @@ FROM
     fantasy_points_breakdown
 ORDER BY
     total_points DESC;
-
-
--- Points scored by players from top 6 teams
-SELECT * FROM fantasy_point_breakdown_by_category
-WHERE team IN ("Liverpool", "Arsenal", "Chelsea", "Nott'm Forest", "Newcastle", "Man City");
 
 
 
