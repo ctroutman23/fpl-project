@@ -66,8 +66,10 @@ except Exception as e:
 # Write cleaned db to a new csv for visualizations and analyzation
 players_df.to_csv('data/cleaned_players.csv', index=False)
 
-# Set up sqlite connection and create a players table in players.db
+# Set up sqlite connection and create/update a players table in players.db
 conn = sqlite3.connect('data/fpl_picks.db')
 
 players_df.to_sql("players", conn, if_exists="replace", index=False)
+
+print("database updated")
 

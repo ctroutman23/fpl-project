@@ -24,4 +24,17 @@ Then, I used the sqlite extension in vs code to write and run queries on my `fpl
 
 Using [this dataset](https://datahub.io/core/english-premier-league#season-2425), I completed the same steps above, creating an epl_stats table in my `fpl_picks.db`.
 
-I was then able to merge the data from the 2 tables together for team and individual game queries.
+I was then able to get team data for home and away specific stats.
+
+
+### Created An API to Connect My Database to Tableau Public
+
+
+
+
+
+### - Set Up Dashboard
+
+
+
+
