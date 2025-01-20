@@ -11,7 +11,7 @@ epl_stats_df = pd.read_csv('data/epl-stats-24-25.csv')
 
 
 # Write cleaned db to a new csv for visualizations and analyzation
-epl_stats_df.to_csv('data/cleaned_players.csv', index=False)
+epl_stats_df.to_csv('viz_data/cleaned_epl_stats.csv', index=False)
 
 
 # Set up sqlite connection and create/update a epl_stats table in players.db

@@ -1,0 +1,211 @@
+name,position,team,total_points,appearance_points,goal_points,assist_points,clean_sheet_points,save_points,penalty_save_points,bonus_points,yellow_card_points,red_card_points,own_goal_points,penalty_miss_points,goals_conceded_points
+Mohamed Salah,MID,Liverpool,209,38,90,39,8,0,0,35,-1,0,0,0,0
+Cole Palmer,MID,Chelsea,153,40,65,21,4,0,0,26,-3,0,0,0,0
+Erling Haaland,FWD,Man City,123,40,64,3,0,0,0,20,-2,0,0,-2,0
+Alexander Isak,FWD,Newcastle,119,36,52,12,0,0,0,22,-1,0,0,0,0
+Chris Wood,FWD,Nott'm Forest,114,38,48,3,0,0,0,25,-1,0,0,0,0
+Bukayo Saka,MID,Arsenal,107,32,25,33,6,0,0,16,-3,0,0,0,0
+Nicolas Jackson,FWD,Chelsea,96,36,36,12,0,0,0,15,-4,0,0,0,0
+Luis Díaz,MID,Liverpool,96,26,40,9,8,0,0,10,-1,0,0,0,0
+Ola Aina,DEF,Nott'm Forest,95,40,12,0,36,0,0,15,-2,0,0,0,-6
+Matz Sels,GKP,Nott'm Forest,94,40,0,3,36,19,0,9,-2,0,0,0,-11
+Anthony Gordon,MID,Newcastle,90,36,25,15,8,0,0,8,-1,0,0,-2,0
+Gabriel dos Santos Magalhães,DEF,Arsenal,83,36,18,6,24,0,0,7,-2,0,0,0,-6
+Trent Alexander-Arnold,DEF,Liverpool,83,34,6,12,28,0,0,11,-4,0,0,0,-4
+Nikola Milenković,DEF,Nott'm Forest,83,38,12,3,36,0,0,1,-2,0,0,0,-5
+Noni Madueke,MID,Chelsea,79,28,25,12,3,0,0,10,-3,0,0,0,0
+Lewis Hall,DEF,Newcastle,79,34,0,12,28,0,0,9,-3,0,0,0,-1
+David Raya Martin,GKP,Arsenal,78,40,0,0,28,16,0,6,-2,0,0,0,-10
+Murillo Santiago Costa dos Santos,DEF,Nott'm Forest,77,38,6,0,32,0,0,10,-4,0,0,0,-5
+Virgil van Dijk,DEF,Liverpool,75,38,6,3,32,0,0,3,-1,0,0,0,-6
+Kai Havertz,FWD,Arsenal,74,34,28,6,0,0,0,10,-3,0,0,0,0
+William Saliba,DEF,Arsenal,74,38,12,0,28,0,0,6,-2,-3,0,0,-5
+Joško Gvardiol,DEF,Man City,74,36,24,0,16,0,0,7,-1,0,0,0,-8
+Gabriel Martinelli Silva,MID,Arsenal,73,26,25,6,6,0,0,6,-1,0,0,0,0
+Morgan Gibbs-White,MID,Nott'm Forest,71,32,20,9,8,0,0,10,-4,-3,0,0,0
+Robert Sánchez,GKP,Chelsea,69,36,0,0,16,21,5,7,-4,0,0,0,-12
+Jacob Murphy,MID,Newcastle,69,26,15,21,5,0,0,3,-2,0,0,0,0
+Joelinton Cássio Apolinário de Lira,MID,Newcastle,69,38,20,3,6,0,0,11,-7,0,0,0,0
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,68,40,5,15,7,0,0,4,-3,0,0,0,0
+Anthony Elanga,MID,Nott'm Forest,68,28,15,12,7,0,0,4,-1,0,0,0,0
+Cody Gakpo,FWD,Liverpool,67,22,24,6,0,0,0,12,-4,0,0,0,0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,67,36,10,12,4,0,0,7,-4,0,0,0,0
+Sávio 'Savinho' Moreira de Oliveira,MID,Man City,67,24,5,21,3,0,0,12,-2,0,0,0,0
+Enzo Fernández,MID,Chelsea,66,30,15,12,3,0,0,5,-3,0,0,0,0
+Harvey Barnes,MID,Newcastle,65,12,25,3,1,0,0,9,0,0,0,0,0
+Jurriën Timber,DEF,Arsenal,64,32,6,3,24,0,0,5,-5,0,0,0,-1
+Callum Hudson-Odoi,MID,Nott'm Forest,62,32,10,9,8,0,0,3,-1,0,0,0,0
+Thomas Partey,MID,Arsenal,61,32,10,9,4,0,0,5,-2,0,0,0,0
+Leandro Trossard,MID,Arsenal,61,24,15,9,5,0,0,5,0,-3,0,0,0
+Dominik Szoboszlai,MID,Liverpool,60,24,10,15,5,0,0,6,-5,0,0,0,0
+Dan Burn,DEF,Newcastle,58,38,0,0,28,0,0,5,-6,0,-2,0,-5
+Moisés Caicedo Corozo,MID,Chelsea,57,40,5,9,5,0,0,2,-4,0,0,0,0
+Curtis Jones,MID,Liverpool,56,20,15,9,3,0,0,4,-1,0,0,0,0
+Mateo Kovačić,MID,Man City,55,28,15,3,4,0,0,8,-4,0,0,0,0
+Fabian Schär,DEF,Newcastle,55,34,12,0,24,0,0,0,-5,-3,0,0,-7
+Elliot Anderson,MID,Nott'm Forest,54,30,0,15,8,0,0,4,-5,0,0,0,0
+Alexis Mac Allister,MID,Liverpool,53,32,5,12,7,0,0,2,-5,0,0,0,0
+Andrew Robertson,DEF,Liverpool,53,34,0,0,28,0,0,2,-2,-3,0,0,-6
+Declan Rice,MID,Arsenal,52,32,5,9,5,0,0,6,-3,-3,0,0,0
+Diogo Teixeira da Silva,MID,Liverpool,52,14,20,9,4,0,0,3,-1,0,0,0,0
+Jadon Sancho,MID,Chelsea,51,20,10,15,2,0,0,3,-1,0,0,0,0
+Kevin De Bruyne,MID,Man City,51,18,10,12,4,0,0,5,-2,0,0,0,0
+Neco Williams,DEF,Nott'm Forest,51,20,0,3,24,0,0,2,-4,0,0,0,6
+Nick Pope,GKP,Newcastle,48,30,0,0,12,18,0,2,-2,0,0,0,-12
+Ryan Gravenberch,MID,Liverpool,47,38,0,6,7,0,0,1,-4,0,0,0,0
+Ibrahima Konaté,DEF,Liverpool,47,24,6,3,20,0,0,1,-4,0,0,0,-3
+Levi Colwill,DEF,Chelsea,46,38,0,3,16,0,0,1,-5,0,0,0,-7
+Marc Cucurella Saseta,DEF,Chelsea,46,32,6,6,12,0,0,2,-6,-3,0,0,-3
+Alisson Ramses Becker,GKP,Liverpool,46,22,0,0,20,7,0,5,0,0,0,0,-8
+Jérémy Doku,MID,Man City,46,16,10,9,3,0,0,2,0,0,0,0,0
+Phil Foden,MID,Man City,46,22,10,6,2,0,0,4,-2,0,0,0,0
+Rico Lewis,DEF,Man City,46,32,6,6,12,0,0,1,-3,-3,0,0,-5
+Tino Livramento,DEF,Newcastle,46,30,0,0,16,0,0,2,0,0,0,0,-2
+Martin Ødegaard,MID,Arsenal,44,24,5,6,6,0,0,3,-1,0,0,0,0
+Ryan Yates,MID,Nott'm Forest,43,26,5,3,5,0,0,3,-5,0,0,0,0
+Gabriel Fernando de Jesus,FWD,Arsenal,42,12,12,6,0,0,0,6,-4,0,0,0,0
+Caoimhin Kelleher,GKP,Liverpool,37,16,0,0,12,8,5,1,0,0,0,0,-5
+Christopher Nkunku,MID,Chelsea,36,6,10,3,0,0,0,4,-1,0,0,0,0
+Pedro Lomba Neto,MID,Chelsea,36,20,5,6,2,0,0,4,-6,0,0,0,0
+Mikel Merino,MID,Arsenal,35,14,10,3,2,0,0,2,-2,0,0,0,0
+Manuel Akanji,DEF,Man City,35,32,0,0,12,0,0,1,-3,0,0,0,-7
+Ederson Santana de Moraes,GKP,Man City,34,26,0,3,8,9,0,2,-3,0,0,0,-11
+Ilkay Gündogan,MID,Man City,34,26,0,3,2,0,0,0,-1,0,0,0,0
+Darwin Núñez Ribeiro,FWD,Liverpool,33,14,8,6,0,0,0,1,-5,0,0,0,0
+Sandro Tonali,MID,Newcastle,33,22,0,3,5,0,0,0,-4,0,0,0,0
+Álex Moreno Lopera,DEF,Nott'm Forest,30,20,0,3,12,0,0,1,-2,0,0,0,-4
+Malo Gusto,DEF,Chelsea,29,28,0,3,4,0,0,0,-3,0,0,0,-3
+Matheus Luiz Nunes,MID,Man City,28,12,0,9,1,0,0,2,-1,0,0,0,0
+Rúben Gato Alves Dias,DEF,Man City,28,24,0,0,12,0,0,1,-3,0,-2,0,-4
+Benjamin White,DEF,Arsenal,27,14,0,3,12,0,0,0,-2,0,0,0,0
+Martin Dúbravka,GKP,Newcastle,27,10,0,0,16,2,0,0,0,0,0,0,-1
+Riccardo Calafiori,DEF,Arsenal,26,16,6,3,4,0,0,1,-3,0,0,0,-1
+Sean Longstaff,MID,Newcastle,26,16,0,3,2,0,0,0,-2,0,0,0,0
+João Pedro Ferreira Silva,MID,Nott'm Forest,26,6,0,6,1,0,0,0,-3,0,0,0,0
+Joe Willock,MID,Newcastle,25,12,0,3,3,0,0,0,-2,0,0,0,0
+Felipe Rodrigues da Silva,DEF,Nott'm Forest,25,4,0,0,8,0,0,2,0,0,0,0,11
+Jack Grealish,MID,Man City,24,12,0,3,1,0,0,3,-3,0,0,0,0
+Ethan Nwaneri,MID,Arsenal,23,4,10,0,0,0,0,1,-1,0,0,0,0
+Nathan Aké,DEF,Man City,23,12,0,0,12,0,0,0,0,0,0,0,-1
+Stefan Ortega Moreno,GKP,Man City,23,14,0,0,8,7,0,0,-1,0,0,0,-5
+Kieran Trippier,DEF,Newcastle,23,10,0,0,8,0,0,2,-1,0,0,0,4
+Tosin Adarabioyo,DEF,Chelsea,22,14,0,0,8,0,0,3,-1,0,0,0,-2
+Nicolás Domínguez,MID,Nott'm Forest,22,22,0,0,3,0,0,0,-6,0,0,0,0
+Axel Disasi,DEF,Chelsea,21,8,6,0,8,0,0,0,-1,0,0,0,0
+John Stones,DEF,Man City,21,8,12,0,0,0,0,1,-1,0,0,0,1
+Taiwo Awoniyi,FWD,Nott'm Forest,20,4,4,0,0,0,0,0,0,0,0,0,0
+Wesley Fofana,DEF,Chelsea,19,24,0,0,4,0,0,2,-6,0,0,0,-5
+João Félix Sequeira,MID,Chelsea,19,6,5,3,1,0,0,0,-2,0,0,0,0
+Ramón Sosa,MID,Nott'm Forest,19,2,5,0,1,0,0,0,0,0,0,0,0
+Oleksandr Zinchenko,DEF,Arsenal,16,4,0,0,8,0,0,0,-1,0,0,0,5
+Roméo Lavia,MID,Chelsea,15,14,0,3,1,0,0,0,-3,0,0,0,0
+Konstantinos Tsimikas,DEF,Liverpool,15,4,0,0,4,0,0,1,0,0,0,0,6
+James Ward-Prowse,MID,Nott'm Forest,15,10,0,3,1,0,0,0,0,-3,0,0,0
+Joe Gomez,DEF,Liverpool,14,12,0,0,4,0,0,0,-1,0,0,0,-1
+Jorge Luiz Frello Filho,MID,Arsenal,13,12,0,0,1,0,0,0,-3,0,0,0,0
+Jakub Kiwior,DEF,Arsenal,13,4,0,0,4,0,0,0,0,0,0,0,5
+Kyle Walker,DEF,Man City,13,18,0,0,0,0,0,0,-3,0,0,0,-2
+Conor Bradley,DEF,Liverpool,12,2,0,0,4,0,0,0,-1,0,0,0,7
+Lloyd Kelly,DEF,Newcastle,11,8,0,3,0,0,0,0,-2,0,0,0,2
+Emil Krafth,DEF,Newcastle,10,4,0,0,4,0,0,0,0,0,0,0,2
+Raheem Sterling,MID,Arsenal,9,4,0,3,0,0,0,0,0,0,0,0,0
+Myles Lewis-Skelly,MID,Arsenal,9,6,0,0,2,0,0,0,-1,0,0,0,0
+Endo Wataru,MID,Liverpool,8,0,0,0,0,0,0,0,0,0,0,0,0
+Miguel Almirón Rejala,MID,Newcastle,8,2,0,0,0,0,0,0,0,0,0,0,0
+Norberto Murara Neto,GKP,Arsenal,7,4,0,0,0,3,0,0,0,0,0,0,0
+Mykhailo Mudryk,MID,Chelsea,7,2,0,0,0,0,0,0,0,0,0,0,0
+Renato Palma Veiga,MID,Chelsea,7,2,0,0,1,0,0,0,-2,0,0,0,0
+Harvey Elliott,MID,Liverpool,7,0,0,0,0,0,0,0,0,0,0,0,0
+William Osula,FWD,Newcastle,6,0,0,0,0,0,0,0,0,0,0,0,0
+Benoît Badiashile,DEF,Chelsea,5,4,0,0,0,0,0,0,0,0,0,0,1
+Kiernan Dewsbury-Hall,MID,Chelsea,5,0,0,0,0,0,0,0,0,0,0,0,0
+Reece James,DEF,Chelsea,5,6,0,0,0,0,0,0,0,0,0,0,-1
+Filip Jørgensen,GKP,Chelsea,5,4,0,0,0,2,0,0,0,0,0,0,-1
+Jarell Quansah,DEF,Liverpool,4,4,0,0,0,0,0,0,-1,0,0,0,1
+James McAtee,MID,Man City,4,0,0,0,0,0,0,0,0,0,0,0,0
+Willy Boly,DEF,Nott'm Forest,4,2,0,0,0,0,0,0,-1,0,0,0,3
+Ibrahim Sangaré,MID,Nott'm Forest,4,6,0,0,1,0,0,0,-2,0,0,0,0
+Callum Wilson,FWD,Newcastle,3,0,0,0,0,0,0,0,-1,0,0,0,0
+Harry Toffolo,DEF,Nott'm Forest,3,0,0,0,0,0,0,0,0,0,0,0,3
+Marc Guiu Paz,FWD,Chelsea,2,0,0,0,0,0,0,0,0,0,0,0,0
+Josh Acheampong,DEF,Chelsea,2,2,0,0,0,0,0,0,0,0,0,0,0
+Rodrigo 'Rodri' Hernandez,MID,Man City,2,2,0,0,0,0,0,0,0,0,0,0,0
+Lewis Miley,MID,Newcastle,2,0,0,0,0,0,0,0,0,0,0,0,0
+Eric da Silva Moreira,MID,Nott'm Forest,2,0,0,0,0,0,0,0,0,0,0,0,0
+Tomiyasu Takehiro,DEF,Arsenal,1,0,0,0,0,0,0,0,0,0,0,0,1
+Federico Chiesa,MID,Liverpool,1,0,0,0,0,0,0,0,0,0,0,0,0
+Vítezslav Jaros,GKP,Liverpool,1,0,0,0,0,0,0,0,0,0,0,0,1
+Jahmai Simpson-Pusey,DEF,Man City,1,2,0,0,0,0,0,0,-1,0,0,0,0
+Sven Botman,DEF,Newcastle,1,2,0,0,0,0,0,0,-1,0,0,0,0
+Matt Targett,DEF,Newcastle,1,0,0,0,0,0,0,0,0,0,0,0,1
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,1,1,0,0,0,0,0,0,0,0,0,0,0
+Fábio Ferreira Vieira,MID,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karl Hein,GKP,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kieran Tierney,DEF,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salah-Eddine Oulad M'hand,MID,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tommy Setford,GKP,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maldini Kacurri,DEF,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ayden Heaven,DEF,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ismeal Kabia,MID,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+Josh Nichols,DEF,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nathan Butler-Oyedeji,FWD,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andrey Nascimento dos Santos,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ângelo Gabriel Borges Damaceno,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucas Bergström,GKP,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcus Bettinelli,GKP,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cesare Casadei,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ben Chilwell,DEF,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carney Chukwuemeka,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+David Datro Fofana,FWD,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deivid Washington de Souza Eugênio,FWD,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conor Gallagher,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alfie Gilchrist,DEF,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Omari Kellyman,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Romelu Lukaku Bolingoli,FWD,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Malang Sarr,DEF,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Đorđe Petrović,GKP,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Caleb Wiley,DEF,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samuel Rak-Sakyi,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tyrique George,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stefan Bajčetić Maquieira,MID,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bobby Clark,MID,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ben Doak,MID,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+James McConnell,MID,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tyler Morton,MID,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nathaniel Phillips,DEF,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhys Williams,DEF,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+Harvey Davies,GKP,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+Treymaurice Nyoni,MID,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amara Nallo,DEF,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jayden Danns,FWD,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oscar Bobb,MID,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scott Carson,GKP,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+Julián Álvarez,FWD,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+João Cavaco Cancelo,DEF,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nico O'Reilly,MID,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+Issa Kaboré,DEF,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jacob Wright,MID,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+Josh Wilson-Esbrand,DEF,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divin Mubama,FWD,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+Max Alleyne,DEF,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spike Brits,GKP,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alex Murphy,DEF,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0
+Isaac Hayden,MID,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0
+Garang Kuol,MID,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jamaal Lascelles,DEF,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jamal Lewis,DEF,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odysseas Vlachodimos,GKP,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0
+John Ruddy,GKP,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joe White,MID,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miodrag Pivaš,DEF,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0
+Josh Bowler,MID,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carlos Miguel dos Santos Pereira,GKP,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
+Emmanuel Dennis,FWD,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alex Mighten,MID,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
+Omar Richards,DEF,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lewis O'Brien,MID,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andrew Omobamidele,DEF,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jonathan Panzo,DEF,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hwang Ui-jo,FWD,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joe Worrall,DEF,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zach Abbott,DEF,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0

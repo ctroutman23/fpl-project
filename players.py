@@ -64,7 +64,7 @@ except Exception as e:
 
 
 # Write cleaned db to a new csv for visualizations and analyzation
-players_df.to_csv('data/cleaned_players.csv', index=False)
+players_df.to_csv('viz_data/cleaned_players.csv', index=False)
 
 # Set up sqlite connection and create/update a players table in players.db
 conn = sqlite3.connect('data/fpl_picks.db')
