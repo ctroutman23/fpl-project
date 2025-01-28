@@ -54,12 +54,18 @@ FROM players
 ORDER BY total_points DESC
 LIMIT 15;
 
--- WHich position scores the most points?
+-- WHich position scores the most points - includes top 100 points scorers?
 CREATE VIEW fpl_points_by_position AS
-SELECT position, SUM(total_points)
-FROM players
-WHERE total_points >= 40
-GROUP BY position;
+WITH TopPlayers AS (
+    SELECT position, total_points
+    FROM players
+    ORDER BY total_points DESC
+    LIMIT 100
+)
+SELECT position, SUM(total_points) AS total_points_sum, COUNT(position)
+FROM TopPlayers
+GROUP BY position
+ORDER BY total_points_sum DESC;
 
 
 
@@ -103,13 +109,13 @@ CREATE VIEW team_goal_involvement_numbers AS
 SELECT 
     team, 
     SUM(goals_scored) AS total_team_goals,
-    SUM(expected_goals) AS team_expected_goals,
+    ROUND(SUM(expected_goals), 2) AS team_expected_goals,
     ROUND(SUM(goals_scored) - SUM(expected_goals), 2) AS xg_goal_dif,
     SUM(assists) AS total_team_assists,
-    SUM(expected_assists) AS team_expected_assists,
+    ROUND(SUM(expected_assists), 2) AS team_expected_assists,
     ROUND(SUM(assists) - SUM(expected_assists), 2) AS xg_ast_dif,
     (SUM(goals_scored) + SUM(assists)) AS total_team_goal_involvement,
-    (SUM(expected_goals) + SUM(expected_assists)) AS total_exp_team_goal_involvement,
+    ROUND(SUM(expected_goals) + SUM(expected_assists), 2) AS total_exp_team_goal_involvement,
     ROUND((SUM(goals_scored) + SUM(assists)) - (SUM(expected_goals) + SUM(expected_assists)), 2) AS xg_goal_involvement_dif
 FROM players
 GROUP BY team
@@ -300,4 +306,7 @@ ORDER BY
     total_points DESC;
 
 
+-- queries for debugging
+SELECT name, expected_assists, assists FROM players
+ORDER BY expected_assists DESC;
 
