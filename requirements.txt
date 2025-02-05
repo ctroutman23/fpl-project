@@ -4,3 +4,4 @@ fastapi == 0.115.6
 uvicorn == 0.34.0
 pydantic-settings == 2.7.1
 sqlalchemy == 2.0.37
+kaggle == 1.6.17.tar.gz

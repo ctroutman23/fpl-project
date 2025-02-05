@@ -1,5 +1,5 @@
-position,SUM(total_points)
-DEF,2664
-FWD,1993
-GKP,929
-MID,5521
+position,total_points_sum,COUNT(position)
+MID,3604,46
+DEF,1814,27
+FWD,1638,19
+GKP,588,8

@@ -27,13 +27,12 @@ Using [this dataset](https://datahub.io/core/english-premier-league#season-2425)
 I was then able to get team data for home and away specific stats.
 
 
-### Created An API to Connect My Database to Tableau Public
+### Updating The Data
+I was able to write a program - `data_update.py` to automatically update the datasets. However, at this point it only updates the dataset from kaggle through an api, while it appears datahub does not offer this kind of service for their datasets. `data_update.py` use the kaggle api to download the fpl kaggle dataset as a csv and it also runs the `players.py` file, which cleans the kaggle dataset and adds it to my SQLite database.
 
 
-
-
-
-### - Set Up Dashboard
+### - Set Up Tableau Dashboard
+See Data visualization on this [dashboard]()
 
 
 
