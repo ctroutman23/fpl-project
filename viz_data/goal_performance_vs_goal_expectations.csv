@@ -1,74 +1,87 @@
 name,position,team,expected_goals,goals_scored,finishing,finishing_evaluation
-Mohamed Salah,MID,Liverpool,15.8,18,2.2,Overperforming
-Erling Haaland,FWD,Man City,15.74,16,0.26,Overperforming
-Bryan Mbeumo,MID,Brentford,6.24,13,6.76,Overperforming
-Cole Palmer,MID,Chelsea,10.58,13,2.42,Overperforming
-Alexander Isak,FWD,Newcastle,11.71,13,1.29,Overperforming
-Chris Wood,FWD,Nott'm Forest,7.12,12,4.88,Overperforming
-Matheus Santos Carneiro Da Cunha,FWD,Wolves,4.06,10,5.94,Overperforming
-Yoane Wissa,FWD,Brentford,8.21,9,0.79,Overperforming
-Nicolas Jackson,FWD,Chelsea,8.99,9,0.01,Overperforming
-James Maddison,MID,Spurs,4.47,8,3.53,Overperforming
-Luis Díaz,MID,Liverpool,5.13,8,2.87,Overperforming
-Liam Delap,FWD,Ipswich,6.29,8,1.71,Overperforming
-Raúl Jiménez,FWD,Fulham,7.46,8,0.54,Overperforming
-Ollie Watkins,FWD,Aston Villa,10.03,8,-2.03,Underperforming
-Jhon Durán,FWD,Aston Villa,5.02,7,1.98,Overperforming
-Jørgen Strand Larsen,FWD,Wolves,5.45,7,1.55,Overperforming
-Kai Havertz,FWD,Arsenal,7.77,7,-0.77,Underperforming
-Dominic Solanke-Mitchell,FWD,Spurs,8.18,7,-1.18,Underperforming
-Brennan Johnson,MID,Spurs,8.36,7,-1.36,Underperforming
-Morgan Rogers,MID,Aston Villa,3.56,6,2.44,Overperforming
-Cody Gakpo,FWD,Liverpool,3.71,6,2.29,Overperforming
-Danny Welbeck,FWD,Brighton,5.57,6,0.43,Overperforming
-Jamie Vardy,FWD,Leicester,6.27,6,-0.27,Underperforming
-Justin Kluivert,MID,Bournemouth,6.54,6,-0.54,Underperforming
+Mohamed Salah,MID,Liverpool,17.56,21,3.44,Overperforming
+Erling Haaland,FWD,Man City,18.13,19,0.87,Overperforming
+Chris Wood,FWD,Nott'm Forest,10.17,17,6.83,Overperforming
+Alexander Isak,FWD,Newcastle,14.08,17,2.92,Overperforming
+Bryan Mbeumo,MID,Brentford,8.14,14,5.86,Overperforming
+Cole Palmer,MID,Chelsea,11.81,14,2.19,Overperforming
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,5.29,11,5.71,Overperforming
+Justin Kluivert,MID,Bournemouth,8.74,11,2.26,Overperforming
+Jean-Philippe Mateta,FWD,Crystal Palace,9.9,10,0.1,Overperforming
+Yoane Wissa,FWD,Brentford,11.09,10,-1.09,Underperforming
+Ollie Watkins,FWD,Aston Villa,11.24,10,-1.24,Underperforming
+Liam Delap,FWD,Ipswich,7.29,9,1.71,Overperforming
+Raúl Jiménez,FWD,Fulham,8.63,9,0.37,Overperforming
+Kai Havertz,FWD,Arsenal,9.39,9,-0.39,Underperforming
+Nicolas Jackson,FWD,Chelsea,10.72,9,-1.72,Underperforming
+James Maddison,MID,Spurs,4.66,8,3.34,Overperforming
+Cody Gakpo,FWD,Liverpool,5.4,8,2.6,Overperforming
+Luis Díaz,MID,Liverpool,6.66,8,1.34,Overperforming
+Alex Iwobi,MID,Fulham,2.96,7,4.04,Overperforming
+Phil Foden,MID,Man City,4.58,7,2.42,Overperforming
+Jhon Durán,FWD,Aston Villa,5.11,7,1.89,Overperforming
+Jørgen Strand Larsen,FWD,Wolves,6.14,7,0.86,Overperforming
+Antoine Semenyo,MID,Bournemouth,7.02,7,-0.02,Underperforming
+Noni Madueke,MID,Chelsea,7.53,7,-0.53,Underperforming
+Jamie Vardy,FWD,Leicester,8.41,7,-1.41,Underperforming
+Brennan Johnson,MID,Spurs,8.41,7,-1.41,Underperforming
+Dominic Solanke-Mitchell,FWD,Spurs,8.43,7,-1.43,Underperforming
+Dejan Kulusevski,MID,Spurs,3.54,6,2.46,Overperforming
+Iliman Ndiaye,FWD,Everton,3.58,6,2.42,Overperforming
+Morgan Rogers,MID,Aston Villa,3.67,6,2.33,Overperforming
+Gabriel Martinelli Silva,MID,Arsenal,4.04,6,1.96,Overperforming
+Amad Diallo,MID,Man Utd,4.12,6,1.88,Overperforming
+Kevin Schade,MID,Brentford,4.63,6,1.37,Overperforming
+Jarrod Bowen,MID,West Ham,5.0,6,1.0,Overperforming
+Son Heung-min,MID,Spurs,5.2,6,0.8,Overperforming
+Dango Ouattara,MID,Bournemouth,5.87,6,0.13,Overperforming
+Danny Welbeck,FWD,Brighton,6.05,6,-0.05,Underperforming
+Anthony Gordon,MID,Newcastle,7.52,6,-1.52,Underperforming
 Harvey Barnes,MID,Newcastle,2.41,5,2.59,Overperforming
-Alex Iwobi,MID,Fulham,2.72,5,2.28,Overperforming
-Dejan Kulusevski,MID,Spurs,2.82,5,2.18,Overperforming
-Harry Wilson,MID,Fulham,3.0,5,2.0,Overperforming
-Gabriel Martinelli Silva,MID,Arsenal,3.36,5,1.64,Overperforming
-João Pedro Junqueira de Jesus,FWD,Brighton,3.6,5,1.4,Overperforming
-Kevin Schade,MID,Brentford,4.07,5,0.93,Overperforming
+Harry Wilson,MID,Fulham,3.29,5,1.71,Overperforming
+Morgan Gibbs-White,MID,Nott'm Forest,3.39,5,1.61,Overperforming
+Tomáš Souček,MID,West Ham,3.77,5,1.23,Overperforming
+João Pedro Junqueira de Jesus,FWD,Brighton,4.03,5,0.97,Overperforming
 Bukayo Saka,MID,Arsenal,4.17,5,0.83,Overperforming
-Son Heung-min,MID,Spurs,4.68,5,0.32,Overperforming
-Jarrod Bowen,MID,West Ham,4.76,5,0.24,Overperforming
-Noni Madueke,MID,Chelsea,5.18,5,-0.18,Underperforming
-Antoine Semenyo,MID,Bournemouth,5.92,5,-0.92,Underperforming
-Jean-Philippe Mateta,FWD,Crystal Palace,5.93,5,-0.93,Underperforming
-Anthony Gordon,MID,Newcastle,6.37,5,-1.37,Underperforming
+Joško Gvardiol,DEF,Man City,4.18,5,0.82,Overperforming
+Diogo Teixeira da Silva,MID,Liverpool,4.89,5,0.11,Overperforming
+Mitoma Kaoru,MID,Brighton,5.1,5,-0.1,Underperforming
 Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,6.46,5,-1.46,Underperforming
-Marcus Rashford,MID,Man Utd,1.6,4,2.4,Overperforming
-Morgan Gibbs-White,MID,Nott'm Forest,2.28,4,1.72,Overperforming
-Joelinton Cássio Apolinário de Lira,MID,Newcastle,2.68,4,1.32,Overperforming
-Joško Gvardiol,DEF,Man City,2.71,4,1.29,Overperforming
-Jordan Ayew,MID,Leicester,2.87,4,1.13,Overperforming
-Facundo Buonanotte,MID,Leicester,3.22,4,0.78,Overperforming
-Tomáš Souček,MID,West Ham,3.38,4,0.62,Overperforming
+Bruno Borges Fernandes,MID,Man Utd,7.84,5,-2.84,Underperforming
+Mateo Kovačić,MID,Man City,1.39,4,2.61,Overperforming
+Marcus Rashford,MID,Aston Villa,1.6,4,2.4,Overperforming
+Jacob Murphy,MID,Newcastle,2.59,4,1.41,Overperforming
+Leandro Trossard,MID,Arsenal,3.23,4,0.77,Overperforming
+Facundo Buonanotte,MID,Leicester,3.24,4,0.76,Overperforming
+Darwin Núñez Ribeiro,FWD,Liverpool,3.28,4,0.72,Overperforming
+Emile Smith Rowe,MID,Fulham,3.34,4,0.66,Overperforming
+Jordan Ayew,MID,Leicester,3.35,4,0.65,Overperforming
+Georginio Rutter,MID,Brighton,3.4,4,0.6,Overperforming
+Joelinton Cássio Apolinário de Lira,MID,Newcastle,3.43,4,0.57,Overperforming
 Sam Szmodics,MID,Ipswich,3.44,4,0.56,Overperforming
-Ismaïla Sarr,MID,Crystal Palace,3.9,4,0.1,Overperforming
-Diogo Teixeira da Silva,MID,Liverpool,3.98,4,0.02,Overperforming
-Bruno Borges Fernandes,MID,Man Utd,6.23,4,-2.23,Underperforming
+Rodrigo Muniz Carvalho,FWD,Fulham,3.81,4,0.19,Overperforming
+Ismaïla Sarr,MID,Crystal Palace,4.4,4,-0.4,Underperforming
+Lucas Tolentino Coelho de Lima,MID,West Ham,4.79,4,-0.79,Underperforming
+Ethan Nwaneri,MID,Arsenal,0.56,3,2.44,Overperforming
+Jérémy Doku,MID,Man City,0.77,3,2.23,Overperforming
 Dwight McNeil,MID,Everton,0.87,3,2.13,Overperforming
-Mateo Kovačić,MID,Man City,1.13,3,1.87,Overperforming
-Trevoh Chalobah,DEF,Crystal Palace,1.2,3,1.8,Overperforming
-Stephy Mavididi,MID,Leicester,1.36,3,1.64,Overperforming
-Rayan Aït-Nouri,DEF,Wolves,1.51,3,1.49,Overperforming
+Trevoh Chalobah,DEF,Chelsea,1.34,3,1.66,Overperforming
+Marc Guéhi,DEF,Crystal Palace,1.43,3,1.57,Overperforming
+Thomas Partey,MID,Arsenal,1.53,3,1.47,Overperforming
+Stephy Mavididi,MID,Leicester,1.55,3,1.45,Overperforming
+Rayan Aït-Nouri,DEF,Wolves,1.59,3,1.41,Overperforming
 Ross Barkley,MID,Aston Villa,1.68,3,1.32,Overperforming
-Iliman Ndiaye,FWD,Everton,1.82,3,1.18,Overperforming
-Anthony Elanga,MID,Nott'm Forest,1.96,3,1.04,Overperforming
-Enzo Fernández,MID,Chelsea,2.23,3,0.77,Overperforming
-Emile Smith Rowe,MID,Fulham,2.24,3,0.76,Overperforming
-Jacob Murphy,MID,Newcastle,2.3,3,0.7,Overperforming
-Gabriel dos Santos Magalhães,DEF,Arsenal,2.42,3,0.58,Overperforming
-Amad Diallo,MID,Man Utd,2.5,3,0.5,Overperforming
-Rodrigo Muniz Carvalho,FWD,Fulham,2.52,3,0.48,Overperforming
-Leandro Trossard,MID,Arsenal,2.76,3,0.24,Overperforming
-Joshua Zirkzee,FWD,Man Utd,2.79,3,0.21,Overperforming
-Curtis Jones,MID,Liverpool,2.95,3,0.05,Overperforming
+Callum Hudson-Odoi,MID,Nott'm Forest,1.92,3,1.08,Overperforming
+Norberto Bercique Gomes Betuncal,FWD,Everton,2.32,3,0.68,Overperforming
+Yankuba Minteh,MID,Brighton,2.43,3,0.57,Overperforming
+Joe Aribo,MID,Southampton,2.54,3,0.46,Overperforming
+Gabriel dos Santos Magalhães,DEF,Arsenal,2.56,3,0.44,Overperforming
+Anthony Elanga,MID,Nott'm Forest,2.58,3,0.42,Overperforming
+Enzo Fernández,MID,Chelsea,2.73,3,0.27,Overperforming
 Gabriel Fernando de Jesus,FWD,Arsenal,3.05,3,-0.05,Underperforming
-Lucas Tolentino Coelho de Lima,MID,West Ham,3.69,3,-0.69,Underperforming
-Mohammed Kudus,MID,West Ham,3.85,3,-0.85,Underperforming
-Mitoma Kaoru,MID,Brighton,4.05,3,-1.05,Underperforming
-Alejandro Garnacho,MID,Man Utd,4.26,3,-1.26,Underperforming
-Dango Ouattara,MID,Bournemouth,4.45,3,-1.45,Underperforming
+Joshua Zirkzee,FWD,Man Utd,3.09,3,-0.09,Underperforming
+Curtis Jones,MID,Liverpool,3.33,3,-0.33,Underperforming
+Mohammed Kudus,MID,West Ham,4.7,3,-1.7,Underperforming
+Alejandro Garnacho,MID,Man Utd,5.19,3,-2.19,Underperforming
+Dominik Szoboszlai,MID,Liverpool,5.23,3,-2.23,Underperforming
+Dominic Calvert-Lewin,FWD,Everton,6.05,3,-3.05,Underperforming

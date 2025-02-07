@@ -1,512 +1,550 @@
 name,position,team,total_points,appearance_points,goal_points,assist_points,clean_sheet_points,save_points,penalty_save_points,bonus_points,yellow_card_points,red_card_points,own_goal_points,penalty_miss_points,goals_conceded_points
-Mohamed Salah,MID,Liverpool,209,38,90,39,8,0,0,35,-1,0,0,0,0
-Cole Palmer,MID,Chelsea,153,40,65,21,4,0,0,26,-3,0,0,0,0
-Bryan Mbeumo,MID,Brentford,136,40,65,9,4,0,0,20,-2,0,0,0,0
-Erling Haaland,FWD,Man City,123,40,64,3,0,0,0,20,-2,0,0,-2,0
-Alexander Isak,FWD,Newcastle,119,36,52,12,0,0,0,22,-1,0,0,0,0
-Chris Wood,FWD,Nott'm Forest,114,38,48,3,0,0,0,25,-1,0,0,0,0
-Matheus Santos Carneiro Da Cunha,FWD,Wolves,111,36,40,12,0,0,0,25,-2,0,0,0,0
+Mohamed Salah,MID,Liverpool,238,46,105,39,10,0,0,39,-1,0,0,0,0
+Cole Palmer,MID,Chelsea,173,48,70,24,4,0,0,31,-4,0,0,0,0
+Chris Wood,FWD,Nott'm Forest,154,46,68,6,0,0,0,34,-1,0,0,0,0
+Alexander Isak,FWD,Newcastle,152,44,68,15,0,0,0,28,-1,0,0,0,0
+Bryan Mbeumo,MID,Brentford,149,48,70,9,4,0,0,20,-2,0,0,0,0
+Erling Haaland,FWD,Man City,149,48,76,6,0,0,0,23,-2,0,0,-2,0
+Justin Kluivert,MID,Bournemouth,123,38,55,12,10,0,0,11,-6,0,0,0,0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,123,42,44,12,0,0,0,27,-3,0,0,0,0
+Ollie Watkins,FWD,Aston Villa,116,40,40,15,0,0,0,18,0,0,0,0,0
+Nicolas Jackson,FWD,Chelsea,108,44,36,18,0,0,0,15,-5,0,0,0,0
+Ola Aina,DEF,Nott'm Forest,108,48,12,3,40,0,0,15,-2,0,0,0,-8
 Bukayo Saka,MID,Arsenal,107,32,25,33,6,0,0,16,-3,0,0,0,0
-James Maddison,MID,Spurs,99,28,40,15,4,0,0,12,-4,0,0,0,0
-Nicolas Jackson,FWD,Chelsea,96,36,36,12,0,0,0,15,-4,0,0,0,0
-Luis Díaz,MID,Liverpool,96,26,40,9,8,0,0,10,-1,0,0,0,0
-Ola Aina,DEF,Nott'm Forest,95,40,12,0,36,0,0,15,-2,0,0,0,-6
-Ollie Watkins,FWD,Aston Villa,94,32,32,12,0,0,0,14,0,0,0,0,0
-Matz Sels,GKP,Nott'm Forest,94,40,0,3,36,19,0,9,-2,0,0,0,-11
-Yoane Wissa,FWD,Brentford,91,32,36,9,0,0,0,16,-2,0,0,0,0
-Anthony Gordon,MID,Newcastle,90,36,25,15,8,0,0,8,-1,0,0,-2,0
-Jarrod Bowen,MID,West Ham,90,38,25,18,4,0,0,7,-1,0,0,0,0
-Morgan Rogers,MID,Aston Villa,88,38,30,12,3,0,0,11,-5,0,0,0,0
-Bruno Borges Fernandes,MID,Man Utd,88,38,20,21,6,0,0,12,-1,-6,0,0,0
-Brennan Johnson,MID,Spurs,88,32,35,12,2,0,0,7,-3,0,0,0,0
-Jordan Pickford,GKP,Everton,87,38,0,0,28,20,10,10,-4,0,0,0,-15
-Alex Iwobi,MID,Fulham,87,40,25,9,5,0,0,9,-1,0,0,0,0
-Raúl Jiménez,FWD,Fulham,87,30,32,6,0,0,0,16,-2,0,0,0,0
-Gabriel dos Santos Magalhães,DEF,Arsenal,83,36,18,6,24,0,0,7,-2,0,0,0,-6
-Trent Alexander-Arnold,DEF,Liverpool,83,34,6,12,28,0,0,11,-4,0,0,0,-4
-Nikola Milenković,DEF,Nott'm Forest,83,38,12,3,36,0,0,1,-2,0,0,0,-5
-Dominic Solanke-Mitchell,FWD,Spurs,83,34,28,15,0,0,0,6,0,0,0,0,0
-Son Heung-min,MID,Spurs,82,30,25,18,2,0,0,9,0,0,0,-2,0
-Dejan Kulusevski,MID,Spurs,81,36,25,12,4,0,0,5,-3,0,0,0,0
-Liam Delap,FWD,Ipswich,80,36,32,6,0,0,0,12,-6,0,0,0,0
-Amad Diallo,MID,Man Utd,80,26,15,21,5,0,0,11,-3,0,0,0,0
-Noni Madueke,MID,Chelsea,79,28,25,12,3,0,0,10,-3,0,0,0,0
-Lewis Hall,DEF,Newcastle,79,34,0,12,28,0,0,9,-3,0,0,0,-1
-Jørgen Strand Larsen,FWD,Wolves,79,38,28,6,0,0,0,8,-2,0,0,0,0
-David Raya Martin,GKP,Arsenal,78,40,0,0,28,16,0,6,-2,0,0,0,-10
-Justin Kluivert,MID,Bournemouth,78,32,30,6,9,0,0,5,-5,0,0,0,0
+Alex Iwobi,MID,Fulham,107,48,35,9,5,0,0,12,-1,0,0,0,0
+Trent Alexander-Arnold,DEF,Liverpool,107,42,6,18,36,0,0,13,-4,0,0,0,-4
+Amad Diallo,MID,Man Utd,107,34,30,21,6,0,0,14,-3,0,0,0,0
+Anthony Gordon,MID,Newcastle,107,44,30,18,9,0,0,9,-2,0,0,-2,0
+Matz Sels,GKP,Nott'm Forest,107,48,0,3,40,25,0,9,-2,0,0,0,-16
+Luis Díaz,MID,Liverpool,106,34,40,9,11,0,0,10,-2,0,0,0,0
+Jordan Pickford,GKP,Everton,104,46,0,3,36,22,10,10,-6,0,0,0,-17
+Bruno Borges Fernandes,MID,Man Utd,104,46,25,21,7,0,0,15,-2,-6,0,0,0
+Son Heung-min,MID,Spurs,104,38,30,24,3,0,0,12,-1,0,0,-2,0
+Yoane Wissa,FWD,Brentford,103,40,40,9,0,0,0,16,-2,0,0,0,0
+Jean-Philippe Mateta,FWD,Crystal Palace,103,44,40,3,0,0,0,19,-2,0,0,0,0
+Antoine Semenyo,MID,Bournemouth,102,46,35,12,7,0,0,7,-5,0,0,0,0
+James Maddison,MID,Spurs,102,30,40,15,4,0,0,12,-4,0,0,0,0
+Raúl Jiménez,FWD,Fulham,100,38,36,6,0,0,0,18,-3,0,0,0,0
+Jarrod Bowen,MID,West Ham,100,40,30,18,4,0,0,10,-1,0,0,0,0
+Noni Madueke,MID,Chelsea,99,36,35,12,3,0,0,12,-3,0,0,0,0
+Morgan Rogers,MID,Aston Villa,97,46,30,15,4,0,0,11,-8,0,0,0,0
+Dejan Kulusevski,MID,Spurs,97,44,30,12,5,0,0,7,-3,0,0,0,0
+Kai Havertz,FWD,Arsenal,96,42,36,9,0,0,0,14,-4,0,0,0,0
+Mitoma Kaoru,MID,Brighton,95,42,25,12,4,0,0,10,0,0,0,0,0
+Morgan Gibbs-White,MID,Nott'm Forest,95,40,25,18,9,0,0,12,-5,-3,0,0,0
+Gabriel dos Santos Magalhães,DEF,Arsenal,94,44,18,6,28,0,0,8,-3,0,0,0,-7
+David Raya Martin,GKP,Arsenal,93,48,0,0,32,19,0,8,-2,0,0,0,-12
+Liam Delap,FWD,Ipswich,93,44,36,6,0,0,0,15,-8,0,0,0,0
+Cody Gakpo,FWD,Liverpool,92,30,32,12,0,0,0,15,-4,0,0,0,0
+Lewis Hall,DEF,Newcastle,92,42,0,15,32,0,0,9,-3,0,0,0,-3
+Anthony Elanga,MID,Nott'm Forest,92,36,15,24,8,0,0,7,-1,0,0,0,0
+Nikola Milenković,DEF,Nott'm Forest,92,46,12,3,40,0,0,1,-2,0,0,0,-8
+Milos Kerkez,DEF,Bournemouth,90,48,12,9,24,0,0,8,-3,0,0,0,-8
+Mikkel Damsgaard,MID,Brentford,90,42,10,21,6,0,0,9,-1,0,0,0,0
+Jamie Vardy,FWD,Leicester,90,44,28,12,0,0,0,13,-4,0,0,0,0
+Virgil van Dijk,DEF,Liverpool,90,46,6,3,40,0,0,3,-2,0,0,0,-6
+Gabriel Martinelli Silva,MID,Arsenal,89,32,30,9,7,0,0,6,-1,0,0,0,0
+Phil Foden,MID,Man City,89,30,35,9,3,0,0,10,-2,0,0,0,0
+Joško Gvardiol,DEF,Man City,89,44,30,0,20,0,0,7,-1,0,0,0,-11
+Brennan Johnson,MID,Spurs,89,32,35,12,2,0,0,7,-3,0,0,0,0
+Daniel Muñoz,DEF,Crystal Palace,88,46,12,12,28,0,0,5,-5,0,0,0,-10
+Antonee Robinson,DEF,Fulham,88,48,0,30,16,0,0,7,-5,0,0,0,-8
+Jacob Murphy,MID,Newcastle,88,34,20,24,6,0,0,5,-2,0,0,0,0
+William Saliba,DEF,Arsenal,87,44,12,0,32,0,0,9,-2,-3,0,0,-5
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,87,48,10,18,8,0,0,6,-3,0,0,0,0
+Dango Ouattara,MID,Bournemouth,86,24,30,12,5,0,0,7,-1,0,0,0,0
+Dean Henderson,GKP,Crystal Palace,86,48,0,0,28,22,5,4,-3,0,0,0,-18
+Murillo Santiago Costa dos Santos,DEF,Nott'm Forest,86,46,6,0,36,0,0,11,-5,0,0,0,-8
+Leandro Trossard,MID,Arsenal,85,32,20,15,6,0,0,10,-1,-3,0,0,0
+Kevin Schade,MID,Brentford,85,24,30,12,4,0,0,6,-2,0,0,0,0
+Marc Guéhi,DEF,Crystal Palace,85,46,18,3,28,0,0,10,-5,0,-4,0,-11
+Jørgen Strand Larsen,FWD,Wolves,84,44,28,6,0,0,0,8,-2,0,0,0,0
+André Onana,GKP,Man Utd,83,48,0,0,28,19,5,5,0,0,0,0,-22
+Dominic Solanke-Mitchell,FWD,Spurs,83,36,28,15,0,0,0,6,0,0,-2,0,0
+Pedro Porro,DEF,Spurs,83,42,12,15,20,0,0,5,-2,0,0,0,-9
+Ismaïla Sarr,MID,Crystal Palace,82,34,20,12,6,0,0,6,-3,0,0,0,0
+João Pedro Junqueira de Jesus,FWD,Brighton,80,32,20,15,0,0,0,15,-3,0,0,0,0
+Iliman Ndiaye,FWD,Everton,80,42,24,0,0,0,0,15,-3,0,0,0,0
+Emile Smith Rowe,MID,Fulham,80,36,20,6,6,0,0,11,-1,0,0,0,0
+Dominik Szoboszlai,MID,Liverpool,80,32,15,18,8,0,0,8,-6,0,0,0,0
+James Tarkowski,DEF,Everton,79,46,0,3,36,0,0,7,-4,0,0,0,-9
 Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,78,34,20,12,0,0,0,12,0,0,0,-2,0
-Murillo Santiago Costa dos Santos,DEF,Nott'm Forest,77,38,6,0,32,0,0,10,-4,0,0,0,-5
-Jamie Vardy,FWD,Leicester,76,36,24,12,0,0,0,10,-4,0,0,0,0
-Milos Kerkez,DEF,Bournemouth,75,40,6,9,20,0,0,8,-2,0,0,0,-6
-Mikkel Damsgaard,MID,Brentford,75,34,10,18,5,0,0,6,-1,0,0,0,0
-João Pedro Junqueira de Jesus,FWD,Brighton,75,24,20,15,0,0,0,15,-1,0,0,0,0
-Virgil van Dijk,DEF,Liverpool,75,38,6,3,32,0,0,3,-1,0,0,0,-6
-Kai Havertz,FWD,Arsenal,74,34,28,6,0,0,0,10,-3,0,0,0,0
-William Saliba,DEF,Arsenal,74,38,12,0,28,0,0,6,-2,-3,0,0,-5
-Antoine Semenyo,MID,Bournemouth,74,38,25,6,6,0,0,4,-5,0,0,0,0
-Joško Gvardiol,DEF,Man City,74,36,24,0,16,0,0,7,-1,0,0,0,-8
-Gabriel Martinelli Silva,MID,Arsenal,73,26,25,6,6,0,0,6,-1,0,0,0,0
-André Onana,GKP,Man Utd,72,40,0,0,24,17,5,5,0,0,0,0,-19
-Morgan Gibbs-White,MID,Nott'm Forest,71,32,20,9,8,0,0,10,-4,-3,0,0,0
-Kevin Schade,MID,Brentford,70,20,25,12,3,0,0,3,-2,0,0,0,0
-Mitoma Kaoru,MID,Brighton,70,34,15,9,3,0,0,6,0,0,0,0,0
-Ashley Young,DEF,Everton,70,32,6,9,28,0,0,8,-5,-3,0,0,-5
-Danny Welbeck,FWD,Brighton,69,26,24,6,0,0,0,13,-1,0,0,0,0
-Robert Sánchez,GKP,Chelsea,69,36,0,0,16,21,5,7,-4,0,0,0,-12
-Jacob Murphy,MID,Newcastle,69,26,15,21,5,0,0,3,-2,0,0,0,0
-Joelinton Cássio Apolinário de Lira,MID,Newcastle,69,38,20,3,6,0,0,11,-7,0,0,0,0
-Pedro Porro,DEF,Spurs,69,34,12,12,16,0,0,3,-2,0,0,0,-6
-Ismaïla Sarr,MID,Crystal Palace,68,26,20,9,3,0,0,6,-3,0,0,0,0
-Bruno Guimarães Rodriguez Moura,MID,Newcastle,68,40,5,15,7,0,0,4,-3,0,0,0,0
-Anthony Elanga,MID,Nott'm Forest,68,28,15,12,7,0,0,4,-1,0,0,0,0
-Jean-Philippe Mateta,FWD,Crystal Palace,67,36,20,3,0,0,0,11,-2,0,0,0,0
-Antonee Robinson,DEF,Fulham,67,40,0,21,12,0,0,5,-4,0,0,0,-7
-Cody Gakpo,FWD,Liverpool,67,22,24,6,0,0,0,12,-4,0,0,0,0
-Bernardo Veiga de Carvalho e Silva,MID,Man City,67,36,10,12,4,0,0,7,-4,0,0,0,0
-Sávio 'Savinho' Moreira de Oliveira,MID,Man City,67,24,5,21,3,0,0,12,-2,0,0,0,0
-Enzo Fernández,MID,Chelsea,66,30,15,12,3,0,0,5,-3,0,0,0,0
-Dean Henderson,GKP,Crystal Palace,66,40,0,0,16,19,5,4,-2,0,0,0,-16
+Tyrick Mitchell,DEF,Crystal Palace,78,48,0,9,32,0,0,3,-2,0,0,0,-12
+Sávio 'Savinho' Moreira de Oliveira,MID,Man City,77,28,5,27,3,0,0,12,-2,0,0,0,0
+Thomas Partey,MID,Arsenal,76,40,15,9,5,0,0,6,-2,0,0,0,0
+Joelinton Cássio Apolinário de Lira,MID,Newcastle,76,46,20,3,7,0,0,11,-9,0,0,0,0
+Tomáš Souček,MID,West Ham,76,38,25,6,4,0,0,8,-7,0,0,0,0
+Danny Welbeck,FWD,Brighton,75,32,24,6,0,0,0,13,-2,0,0,0,0
+Maxence Lacroix,DEF,Crystal Palace,75,42,6,6,28,0,0,6,-4,0,0,0,-9
+Enzo Fernández,MID,Chelsea,74,36,15,15,3,0,0,5,-4,0,0,0,0
+Robert Sánchez,GKP,Chelsea,74,42,0,0,16,23,5,7,-5,0,0,0,-14
+Eberechi Eze,MID,Crystal Palace,74,38,10,15,6,0,0,6,-1,0,0,0,0
+Ashley Young,DEF,Everton,74,34,6,9,28,0,0,8,-5,-3,0,0,-3
+Mateo Kovačić,MID,Man City,74,36,20,6,6,0,0,10,-5,0,0,0,0
+Jurriën Timber,DEF,Arsenal,73,40,6,3,28,0,0,5,-7,0,0,0,-2
+Bernd Leno,GKP,Fulham,73,48,0,3,16,22,0,2,-3,0,0,0,-15
+Nathan Collins,DEF,Brentford,72,48,12,15,12,0,0,3,-2,0,0,0,-16
+Georginio Rutter,MID,Brighton,72,28,20,12,4,0,0,1,-2,0,0,0,0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,72,42,10,12,4,0,0,7,-5,0,0,0,0
+Kevin De Bruyne,MID,Man City,72,22,10,24,5,0,0,7,-2,0,0,0,0
+Vitalii Mykolenko,DEF,Everton,71,42,0,3,32,0,0,5,-2,0,0,0,-9
+Mark Flekken,GKP,Brentford,70,46,0,3,8,35,0,2,-1,0,0,0,-23
+Callum Hudson-Odoi,MID,Nott'm Forest,70,36,15,9,8,0,0,3,-1,0,0,0,0
+Declan Rice,MID,Arsenal,69,40,5,15,6,0,0,8,-3,-3,0,0,0
+Elliot Anderson,MID,Nott'm Forest,69,38,5,15,9,0,0,5,-5,0,0,0,0
+Alisson Ramses Becker,GKP,Liverpool,68,30,0,0,28,12,0,8,0,0,0,0,-10
+Lisandro Martínez,DEF,Man Utd,68,40,12,3,24,0,0,5,-7,0,0,0,-9
+Rayan Aït-Nouri,DEF,Wolves,68,46,18,15,12,0,0,6,-4,-3,0,0,-22
+Neco Williams,DEF,Nott'm Forest,67,28,6,3,28,0,0,2,-4,0,0,0,4
+Youri Tielemans,MID,Aston Villa,66,48,5,12,3,0,0,6,-4,0,0,-2,0
+Ibrahima Konaté,DEF,Liverpool,66,32,6,6,28,0,0,1,-4,0,0,0,-3
+Dan Burn,DEF,Newcastle,66,46,0,0,32,0,0,5,-7,0,-2,0,-8
+Emiliano Martínez Romero,GKP,Aston Villa,65,48,0,0,12,20,5,2,-2,0,0,0,-20
+Dean Huijsen,DEF,Bournemouth,65,26,12,0,20,0,0,11,-5,0,0,0,1
 Dwight McNeil,MID,Everton,65,26,15,15,4,0,0,6,-1,0,0,0,0
+Andrew Robertson,DEF,Liverpool,65,40,0,0,32,0,0,3,-2,-3,0,0,-5
 Harvey Barnes,MID,Newcastle,65,12,25,3,1,0,0,9,0,0,0,0,0
-Tomáš Souček,MID,West Ham,65,30,20,6,4,0,0,8,-5,0,0,0,0
-Jurriën Timber,DEF,Arsenal,64,32,6,3,24,0,0,5,-5,0,0,0,-1
-Emile Smith Rowe,MID,Fulham,63,28,15,6,5,0,0,8,-1,0,0,0,0
-Nathan Collins,DEF,Brentford,62,40,12,12,12,0,0,1,-2,0,0,0,-13
-Callum Hudson-Odoi,MID,Nott'm Forest,62,32,10,9,8,0,0,3,-1,0,0,0,0
-Thomas Partey,MID,Arsenal,61,32,10,9,4,0,0,5,-2,0,0,0,0
-Leandro Trossard,MID,Arsenal,61,24,15,9,5,0,0,5,0,-3,0,0,0
-Mark Flekken,GKP,Brentford,61,40,0,3,8,29,0,2,-1,0,0,0,-20
-Daniel Muñoz,DEF,Crystal Palace,61,38,12,6,16,0,0,3,-5,0,0,0,-9
-Bernd Leno,GKP,Fulham,61,40,0,3,12,19,0,2,-2,0,0,0,-13
-Dominik Szoboszlai,MID,Liverpool,60,24,10,15,5,0,0,6,-5,0,0,0,0
-Eberechi Eze,MID,Crystal Palace,59,32,10,9,4,0,0,6,-1,0,0,0,0
-Tyrick Mitchell,DEF,Crystal Palace,59,40,0,9,20,0,0,3,-2,0,0,0,-11
-James Tarkowski,DEF,Everton,59,38,0,0,28,0,0,5,-4,0,0,0,-8
-Dan Burn,DEF,Newcastle,58,38,0,0,28,0,0,5,-6,0,-2,0,-5
-Aaron Wan-Bissaka,DEF,West Ham,58,36,12,3,12,0,0,6,0,0,0,0,-11
-Dango Ouattara,MID,Bournemouth,57,16,15,9,4,0,0,4,0,0,0,0,0
-Dean Huijsen,DEF,Bournemouth,57,18,12,0,16,0,0,11,-3,0,0,0,3
-Georginio Rutter,MID,Brighton,57,26,10,12,4,0,0,1,-2,0,0,0,0
-Moisés Caicedo Corozo,MID,Chelsea,57,40,5,9,5,0,0,2,-4,0,0,0,0
-Rayan Aït-Nouri,DEF,Wolves,57,38,18,15,8,0,0,5,-4,-3,0,0,-20
-Vitalii Mykolenko,DEF,Everton,56,34,0,3,24,0,0,5,-2,0,0,0,-8
-Curtis Jones,MID,Liverpool,56,20,15,9,3,0,0,4,-1,0,0,0,0
-Illia Zabarnyi,DEF,Bournemouth,55,40,0,0,20,0,0,3,-2,0,0,0,-6
-Marc Guéhi,DEF,Crystal Palace,55,38,12,3,16,0,0,5,-5,0,-4,0,-10
-Iliman Ndiaye,FWD,Everton,55,34,12,0,0,0,0,9,-2,0,0,0,0
-Facundo Buonanotte,MID,Leicester,55,22,20,6,2,0,0,4,-5,0,0,0,0
-Mateo Kovačić,MID,Man City,55,28,15,3,4,0,0,8,-4,0,0,0,0
-Fabian Schär,DEF,Newcastle,55,34,12,0,24,0,0,0,-5,-3,0,0,-7
-Trevoh Chalobah,DEF,Crystal Palace,54,24,18,0,12,0,0,5,-1,0,0,0,-4
-Diogo Dalot Teixeira,DEF,Man Utd,54,40,0,3,20,0,0,6,-4,0,0,0,-11
-Marcus Rashford,MID,Man Utd,54,24,20,3,5,0,0,3,-2,0,0,0,0
-Elliot Anderson,MID,Nott'm Forest,54,30,0,15,8,0,0,4,-5,0,0,0,0
-Lucas Tolentino Coelho de Lima,MID,West Ham,54,32,15,3,3,0,0,4,-5,0,0,0,0
-Emiliano Martínez Romero,GKP,Aston Villa,53,40,0,0,8,17,5,2,-2,0,0,0,-17
-Keane Lewis-Potter,MID,Brentford,53,36,5,9,4,0,0,0,-3,0,0,0,0
-Harry Wilson,MID,Fulham,53,10,25,3,1,0,0,5,-2,0,0,0,0
-Alexis Mac Allister,MID,Liverpool,53,32,5,12,7,0,0,2,-5,0,0,0,0
-Andrew Robertson,DEF,Liverpool,53,34,0,0,28,0,0,2,-2,-3,0,0,-6
-Declan Rice,MID,Arsenal,52,32,5,9,5,0,0,6,-3,-3,0,0,0
-Youri Tielemans,MID,Aston Villa,52,40,0,12,2,0,0,5,-3,0,0,-2,0
-Kepa Arrizabalaga,GKP,Bournemouth,52,28,0,0,16,16,0,4,-2,0,0,0,-10
-Vitaly Janelt,MID,Brentford,52,32,5,9,3,0,0,2,-2,0,0,0,0
-Bart Verbruggen,GKP,Brighton,52,36,0,0,12,17,0,4,-2,0,0,0,-15
+Illia Zabarnyi,DEF,Bournemouth,64,48,0,0,24,0,0,3,-3,0,0,0,-8
+Kepa Arrizabalaga,GKP,Bournemouth,64,34,0,0,20,20,0,4,-2,0,0,0,-12
+Trevoh Chalobah,DEF,Chelsea,64,28,18,3,12,0,0,8,-1,0,0,0,-4
+Lucas Tolentino Coelho de Lima,MID,West Ham,64,38,20,3,3,0,0,5,-6,0,0,0,0
+Lucas Digne,DEF,Aston Villa,63,42,0,12,12,0,0,6,-3,0,0,0,-6
+Keane Lewis-Potter,MID,Brentford,63,44,5,12,4,0,0,0,-4,0,0,0,0
+Moisés Caicedo Corozo,MID,Chelsea,63,48,5,9,5,0,0,2,-6,0,0,0,0
+Harry Wilson,MID,Fulham,63,16,25,6,2,0,0,6,-2,0,0,0,0
+Alexis Mac Allister,MID,Liverpool,63,40,5,12,10,0,0,2,-6,0,0,0,0
+Diogo Dalot Teixeira,DEF,Man Utd,63,46,0,3,24,0,0,7,-4,0,0,0,-13
+Aaron Wan-Bissaka,DEF,West Ham,63,44,12,6,12,0,0,6,-1,0,-2,0,-14
+Curtis Jones,MID,Liverpool,62,20,15,12,3,0,0,4,-1,0,0,0,0
+Bart Verbruggen,GKP,Brighton,61,44,0,0,16,19,0,4,-4,0,0,0,-18
+Alejandro Garnacho,MID,Man Utd,61,26,15,6,3,0,0,4,-1,0,0,0,0
+Noussair Mazraoui,DEF,Man Utd,61,44,0,3,20,0,0,4,-1,0,0,0,-9
+Martin Ødegaard,MID,Arsenal,60,30,10,9,6,0,0,6,-2,0,0,0,0
+Lewis Cook,MID,Bournemouth,59,42,5,9,4,0,0,2,-5,0,0,0,0
+Marc Cucurella Saseta,DEF,Chelsea,59,40,12,6,12,0,0,3,-6,-3,0,0,-5
+Dominic Calvert-Lewin,FWD,Everton,59,38,12,6,0,0,0,3,-2,0,0,0,0
+Omari Giraud-Hutchinson,MID,Ipswich,59,44,10,3,3,0,0,4,-4,0,0,0,0
+Diogo Teixeira da Silva,MID,Liverpool,59,14,25,9,4,0,0,4,-1,0,0,0,0
+Mohammed Kudus,MID,West Ham,59,38,15,3,3,0,0,4,0,-3,0,0,0
+Vitaly Janelt,MID,Brentford,58,40,5,9,4,0,0,2,-3,0,-2,0,0
+Facundo Buonanotte,MID,Leicester,58,24,20,6,2,0,0,4,-6,0,0,0,0
+Jérémy Doku,MID,Man City,58,18,15,12,4,0,0,3,0,0,0,0,0
+Fabian Schär,DEF,Newcastle,58,38,12,0,24,0,0,0,-5,-3,0,0,-8
+Jadon Sancho,MID,Chelsea,57,26,10,15,2,0,0,3,-1,0,0,0,0
+Adama Traoré,MID,Fulham,57,24,10,9,3,0,0,3,-2,0,0,0,0
+Ryan Gravenberch,MID,Liverpool,57,46,0,6,10,0,0,1,-5,0,0,0,0
+Joe Aribo,MID,Southampton,57,30,15,0,1,0,0,6,-1,0,0,0,0
+Emerson Palmieri dos Santos,DEF,West Ham,57,42,12,3,16,0,0,2,-5,0,0,0,-13
+João Victor Gomes da Silva,MID,Wolves,57,44,10,3,3,0,0,7,-6,-3,0,0,0
+Ryan Christie,MID,Bournemouth,56,42,5,6,8,0,0,2,-9,0,0,0,0
+Marcus Tavernier,MID,Bournemouth,56,26,5,18,3,0,0,2,-2,0,0,0,0
+Tino Livramento,DEF,Newcastle,56,38,0,0,20,0,0,2,0,0,0,0,-4
+Idrissa Gueye,MID,Everton,55,40,0,6,8,0,0,3,-4,0,0,0,0
+Stephy Mavididi,MID,Leicester,55,28,15,3,1,0,0,3,-2,0,0,0,0
+Marcus Rashford,MID,Aston Villa,54,24,20,3,5,0,0,3,-2,0,0,0,0
+Jarrad Branthwaite,DEF,Everton,54,28,0,0,28,0,0,3,-3,0,0,0,-2
+Andreas Hoelgebaum Pereira,MID,Fulham,54,32,10,12,4,0,0,1,-7,0,0,-2,0
+Rodrigo Muniz Carvalho,FWD,Fulham,54,10,16,3,0,0,0,8,-1,0,0,0,0
+Jordan Ayew,MID,Leicester,54,26,20,0,1,0,0,3,-5,0,0,0,0
+Jhon Durán,FWD,Aston Villa,53,8,28,0,0,0,0,9,-3,-3,0,0,0
+Jan Paul van Hecke,DEF,Brighton,53,42,0,3,16,0,0,4,-4,0,0,0,-8
+Christian Nørgaard,MID,Brentford,52,42,10,6,2,0,0,1,-4,-3,0,0,0
+Joël Veltman,DEF,Brighton,52,36,0,0,20,0,0,7,-4,0,0,0,-7
+Abdoulaye Doucouré,MID,Everton,52,40,5,0,9,0,0,0,-2,0,0,0,0
 Sam Szmodics,MID,Ipswich,52,26,20,0,2,0,0,2,-2,0,0,0,0
-Diogo Teixeira da Silva,MID,Liverpool,52,14,20,9,4,0,0,3,-1,0,0,0,0
-Alejandro Garnacho,MID,Man Utd,52,20,15,6,2,0,0,3,-1,0,0,0,0
-João Victor Gomes da Silva,MID,Wolves,52,38,10,3,3,0,0,5,-6,0,0,0,0
-Jhon Durán,FWD,Aston Villa,51,8,28,0,0,0,0,9,-3,-3,0,0,0
-Lewis Cook,MID,Bournemouth,51,34,5,9,3,0,0,2,-4,0,0,0,0
-Jadon Sancho,MID,Chelsea,51,20,10,15,2,0,0,3,-1,0,0,0,0
-Dominic Calvert-Lewin,FWD,Everton,51,32,8,6,0,0,0,3,-1,0,0,0,0
-Omari Giraud-Hutchinson,MID,Ipswich,51,36,10,3,3,0,0,4,-4,0,0,0,0
-Kevin De Bruyne,MID,Man City,51,18,10,12,4,0,0,5,-2,0,0,0,0
-Neco Williams,DEF,Nott'm Forest,51,20,0,3,24,0,0,2,-4,0,0,0,6
-Mohammed Kudus,MID,West Ham,51,30,15,3,3,0,0,4,0,-3,0,0,0
-Lucas Digne,DEF,Aston Villa,50,36,0,9,8,0,0,6,-3,0,0,0,-6
-Maxence Lacroix,DEF,Crystal Palace,50,34,6,3,16,0,0,2,-3,0,0,0,-8
-Stephy Mavididi,MID,Leicester,50,24,15,3,1,0,0,3,-2,0,0,0,0
-Lisandro Martínez,DEF,Man Utd,50,34,6,3,20,0,0,2,-6,0,0,0,-9
-Noussair Mazraoui,DEF,Man Utd,50,36,0,3,16,0,0,4,-1,0,0,0,-8
-Marcus Tavernier,MID,Bournemouth,48,26,5,12,3,0,0,2,-2,0,0,0,0
-Andreas Hoelgebaum Pereira,MID,Fulham,48,30,10,9,4,0,0,1,-6,0,0,-2,0
-Arijanet Muric,GKP,Ipswich,48,34,0,0,4,22,0,5,-1,0,0,0,-16
+Joshua Zirkzee,FWD,Man Utd,52,16,12,6,0,0,0,6,-1,0,0,0,0
+Mateus Gonçalo Espanha Fernandes,MID,Southampton,52,40,5,6,4,0,0,2,-7,0,0,0,0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,52,12,10,12,3,0,0,2,-1,0,0,0,0
+Sam Morsy,MID,Ipswich,51,42,5,3,2,0,0,5,-7,0,0,0,0
+Ezri Konsa Ngoyo,DEF,Aston Villa,50,44,6,0,8,0,0,5,0,0,0,0,-13
+Carlos Baleba,MID,Brighton,50,36,10,3,5,0,0,4,-5,-3,0,0,0
+Calvin Bassey,DEF,Fulham,50,46,0,0,16,0,0,0,-5,0,0,0,-7
+Yankuba Minteh,MID,Brighton,49,16,15,9,1,0,0,3,-5,0,0,0,0
+Levi Colwill,DEF,Chelsea,49,44,0,3,16,0,0,1,-6,0,0,0,-9
+Arijanet Muric,GKP,Ipswich,49,36,0,0,4,23,0,5,-1,0,0,0,-18
+Bilal El Khannouss,MID,Leicester,49,28,10,3,1,0,0,5,-1,0,0,0,0
+Ederson Santana de Moraes,GKP,Man City,49,30,0,6,12,12,0,4,-3,0,0,0,-12
+Aaron Ramsdale,GKP,Southampton,49,32,0,0,8,22,0,5,-1,0,0,0,-17
+Pape Matar Sarr,MID,Spurs,49,30,10,6,2,0,0,1,-4,0,0,0,0
+Jean-Ricner Bellegarde,MID,Wolves,49,22,10,6,3,0,0,3,-3,0,0,0,0
+José Malheiro de Sá,GKP,Wolves,49,34,0,0,16,15,5,1,-1,0,0,0,-21
+Leif Davis,DEF,Ipswich,48,48,6,6,8,0,0,5,-5,0,0,0,-20
+Matthijs de Ligt,DEF,Man Utd,48,36,6,0,12,0,0,3,-3,0,0,0,-6
 Nick Pope,GKP,Newcastle,48,30,0,0,12,18,0,2,-2,0,0,0,-12
-Ryan Christie,MID,Bournemouth,47,34,5,3,7,0,0,2,-6,0,0,0,0
-Adama Traoré,MID,Fulham,47,22,5,9,3,0,0,3,-2,0,0,0,0
-Leif Davis,DEF,Ipswich,47,40,6,6,8,0,0,5,-5,0,0,0,-13
-Jordan Ayew,MID,Leicester,47,20,20,0,1,0,0,3,-5,0,0,0,0
-Ryan Gravenberch,MID,Liverpool,47,38,0,6,7,0,0,1,-4,0,0,0,0
-Ibrahima Konaté,DEF,Liverpool,47,24,6,3,20,0,0,1,-4,0,0,0,-3
+Sandro Tonali,MID,Newcastle,48,30,5,3,6,0,0,2,-5,0,0,0,0
+Pedro Lomba Neto,MID,Chelsea,47,22,10,6,2,0,0,5,-6,0,0,0,0
+Rico Lewis,DEF,Man City,47,32,6,6,12,0,0,1,-3,-3,0,0,-4
 Mario Lemina,MID,Wolves,47,30,5,9,1,0,0,5,-4,0,0,0,0
-Levi Colwill,DEF,Chelsea,46,38,0,3,16,0,0,1,-5,0,0,0,-7
-Marc Cucurella Saseta,DEF,Chelsea,46,32,6,6,12,0,0,2,-6,-3,0,0,-3
-Alisson Ramses Becker,GKP,Liverpool,46,22,0,0,20,7,0,5,0,0,0,0,-8
-Jérémy Doku,MID,Man City,46,16,10,9,3,0,0,2,0,0,0,0,0
-Phil Foden,MID,Man City,46,22,10,6,2,0,0,4,-2,0,0,0,0
-Rico Lewis,DEF,Man City,46,32,6,6,12,0,0,1,-3,-3,0,0,-5
-Tino Livramento,DEF,Newcastle,46,30,0,0,16,0,0,2,0,0,0,0,-2
-Carlos Baleba,MID,Brighton,45,30,10,3,4,0,0,4,-3,-3,0,0,0
-Gonçalo Manuel Ganchinho Guedes,MID,Wolves,45,8,10,12,2,0,0,2,-1,0,0,0,0
-Martin Ødegaard,MID,Arsenal,44,24,5,6,6,0,0,3,-1,0,0,0,0
-Joël Veltman,DEF,Brighton,44,28,0,0,16,0,0,7,-3,0,0,0,-4
-Sam Morsy,MID,Ipswich,44,36,5,3,2,0,0,5,-7,0,0,0,0
-Joshua Zirkzee,FWD,Man Utd,44,14,12,3,0,0,0,6,-1,0,0,0,0
-Jan Paul van Hecke,DEF,Brighton,43,34,0,3,12,0,0,3,-4,0,0,0,-5
-Rodrigo Muniz Carvalho,FWD,Fulham,43,10,12,3,0,0,0,5,-1,0,0,0,0
-Matthijs de Ligt,DEF,Man Utd,43,30,6,0,12,0,0,3,-3,0,0,0,-5
-Ryan Yates,MID,Nott'm Forest,43,26,5,3,5,0,0,3,-5,0,0,0,0
-Emerson Palmieri dos Santos,DEF,West Ham,43,34,6,3,16,0,0,0,-5,0,0,0,-11
+Will Hughes,MID,Crystal Palace,46,32,0,9,6,0,0,3,-8,0,0,0,0
+Darwin Núñez Ribeiro,FWD,Liverpool,46,14,16,6,0,0,0,4,-6,0,0,0,0
+Ryan Yates,MID,Nott'm Forest,46,30,5,3,5,0,0,3,-6,0,0,0,0
+Max Kilman,DEF,West Ham,46,48,0,3,12,0,0,3,-3,0,0,0,-17
+Adam Armstrong,FWD,Southampton,45,30,8,9,0,0,0,2,-4,0,0,-2,0
+Tyler Dibling,MID,Southampton,45,28,10,3,2,0,0,4,-6,0,0,0,0
+Leon Bailey,MID,Aston Villa,44,26,5,6,2,0,0,2,-2,0,0,0,0
+John McGinn,MID,Aston Villa,44,34,0,9,3,0,0,1,-4,0,0,0,0
+Manuel Akanji,DEF,Man City,44,40,0,0,16,0,0,1,-3,0,0,0,-10
+Rasmus Højlund,FWD,Man Utd,44,26,8,3,0,0,0,4,-1,0,0,0,0
+Jan Bednarek,DEF,Southampton,44,40,12,0,8,0,0,2,-5,0,0,0,-13
+Nélson Cabral Semedo,DEF,Wolves,44,38,0,9,16,0,0,0,-7,0,0,0,-12
+James Justin,DEF,Leicester,43,46,12,3,4,0,0,2,-3,0,0,0,-21
+Martin Dúbravka,GKP,Newcastle,43,18,0,0,20,8,0,2,0,0,0,0,-5
+Matt Doherty,DEF,Wolves,43,26,12,3,12,0,0,2,-3,0,-2,0,-7
 Gabriel Fernando de Jesus,FWD,Arsenal,42,12,12,6,0,0,0,6,-4,0,0,0,0
-John McGinn,MID,Aston Villa,42,32,0,9,3,0,0,1,-3,0,0,0,0
-Aaron Ramsdale,GKP,Southampton,42,26,0,0,8,18,0,5,-1,0,0,0,-14
-Adam Armstrong,FWD,Southampton,42,26,8,9,0,0,0,2,-4,0,0,-2,0
 Michail Antonio,FWD,West Ham,42,22,4,12,0,0,0,3,-1,0,0,0,0
-Joe Aribo,MID,Southampton,41,22,10,0,0,0,0,3,0,0,0,0,0
-Max Kilman,DEF,West Ham,41,40,0,3,12,0,0,3,-3,0,0,0,-14
+Jacob Ramsey,MID,Aston Villa,41,22,5,6,1,0,0,3,-1,0,0,0,0
+Amadou Onana,MID,Aston Villa,41,28,10,0,2,0,0,5,-4,0,0,0,0
+Yves Bissouma,MID,Spurs,41,24,10,0,3,0,0,4,-5,0,0,0,0
+Toti António Gomes,DEF,Wolves,41,32,0,3,16,0,0,5,-4,0,0,0,-11
 Ross Barkley,MID,Aston Villa,40,6,15,3,1,0,0,5,-3,0,0,0,0
-Christian Nørgaard,MID,Brentford,40,34,5,6,2,0,0,0,-3,-3,0,0,0
-Rasmus Højlund,FWD,Man Utd,40,22,8,3,0,0,0,4,-1,0,0,0,0
-Tyler Dibling,MID,Southampton,40,26,10,0,1,0,0,4,-5,0,0,0,0
-Mateus Gonçalo Espanha Fernandes,MID,Southampton,40,32,5,3,3,0,0,0,-5,0,0,0,0
-Pape Matar Sarr,MID,Spurs,40,24,5,6,2,0,0,1,-3,0,0,0,0
-Leon Bailey,MID,Aston Villa,39,24,5,6,1,0,0,2,-2,0,0,0,0
-Calvin Bassey,DEF,Fulham,39,38,0,0,12,0,0,0,-5,0,0,0,-6
-James Justin,DEF,Leicester,39,38,12,3,4,0,0,2,-2,0,0,0,-18
-Ezri Konsa Ngoyo,DEF,Aston Villa,38,36,6,0,4,0,0,3,0,0,0,0,-11
-Abdoulaye Doucouré,MID,Everton,38,32,0,0,7,0,0,0,-1,0,0,0,0
-Mads Hermansen,GKP,Leicester,38,32,0,0,4,21,0,0,0,0,0,0,-19
-Cameron Archer,FWD,Southampton,38,18,8,0,0,0,0,4,0,0,0,-2,0
-Amadou Onana,MID,Aston Villa,37,24,10,0,1,0,0,5,-3,0,0,0,0
-Jarrad Branthwaite,DEF,Everton,37,20,0,0,20,0,0,1,-3,0,0,0,-1
-Idrissa Gueye,MID,Everton,37,32,0,0,6,0,0,0,-3,0,0,0,0
+Ilkay Gündogan,MID,Man City,40,30,0,3,3,0,0,0,-1,0,0,0,0
+Cameron Archer,FWD,Southampton,40,20,8,0,0,0,0,4,0,0,0,-2,0
+Kyle Walker-Peters,DEF,Southampton,40,44,0,6,8,0,0,3,-5,0,0,0,-16
+Mikel Merino,MID,Arsenal,39,16,10,3,2,0,0,2,-2,0,0,0,0
+Pervis Estupiñán,DEF,Brighton,39,30,0,3,8,0,0,6,-3,0,0,0,-5
+Orel Mangala,MID,Everton,39,28,5,0,5,0,0,0,-2,0,0,0,0
+Mads Hermansen,GKP,Leicester,39,34,0,0,4,22,0,0,0,0,0,0,-21
+Matheus Luiz Nunes,MID,Man City,39,20,0,12,2,0,0,2,-2,0,0,0,0
+Taylor Harwood-Bellis,DEF,Southampton,39,44,6,0,8,0,0,2,-7,0,0,0,-14
+Matty Cash,DEF,Aston Villa,38,30,6,3,8,0,0,1,-5,0,0,0,-5
+Lewis Dunk,DEF,Brighton,38,34,0,3,16,0,0,0,-4,0,-2,0,-9
+Christopher Nkunku,MID,Chelsea,38,6,10,3,0,0,0,4,-1,0,0,0,0
+Bobby De Cordova-Reid,MID,Leicester,38,8,5,12,0,0,0,2,-1,0,0,0,0
+Saša Lukić,MID,Fulham,37,36,0,6,3,0,0,1,-9,0,0,0,0
 Kenny Tete,DEF,Fulham,37,30,0,6,8,0,0,0,-3,0,0,0,-4
 Wilfred Ndidi,MID,Leicester,37,30,0,12,1,0,0,1,-4,0,-2,0,0
+Harry Winks,MID,Leicester,37,34,0,6,0,0,0,0,-4,0,0,0,0
 Caoimhin Kelleher,GKP,Liverpool,37,16,0,0,12,8,5,1,0,0,0,0,-5
-Yves Bissouma,MID,Spurs,37,20,10,0,2,0,0,4,-5,0,0,0,0
 Destiny Udogie,DEF,Spurs,37,36,0,3,8,0,0,0,-2,0,0,0,-8
 Guglielmo Vicario,GKP,Spurs,37,24,0,0,12,9,0,1,-1,0,0,0,-8
-José Malheiro de Sá,GKP,Wolves,37,26,0,0,12,12,5,1,-1,0,0,0,-18
-Lewis Dunk,DEF,Brighton,36,28,0,3,16,0,0,0,-4,0,0,0,-7
-Christopher Nkunku,MID,Chelsea,36,6,10,3,0,0,0,4,-1,0,0,0,0
-Pedro Lomba Neto,MID,Chelsea,36,20,5,6,2,0,0,4,-6,0,0,0,0
-Will Hughes,MID,Crystal Palace,36,24,0,9,3,0,0,3,-7,0,0,0,0
-Kyle Walker-Peters,DEF,Southampton,36,36,0,6,8,0,0,3,-4,0,0,0,-13
-Mikel Merino,MID,Arsenal,35,14,10,3,2,0,0,2,-2,0,0,0,0
-Manuel Akanji,DEF,Man City,35,32,0,0,12,0,0,1,-3,0,0,0,-7
-Taylor Harwood-Bellis,DEF,Southampton,35,36,6,0,8,0,0,2,-7,0,0,0,-10
+David Brooks,MID,Bournemouth,36,12,10,3,1,0,0,2,-3,0,0,0,0
+Mads Roerslev Rasmussen,DEF,Brentford,36,22,0,6,8,0,0,0,-2,0,0,0,2
+Sepp van den Berg,DEF,Brentford,36,38,0,3,8,0,0,1,-1,0,0,0,-13
+Yasin Ayari,MID,Brighton,36,28,0,0,5,0,0,0,-3,0,0,0,0
+Sugawara Yukinari,DEF,Southampton,36,26,6,3,8,0,0,0,-4,0,0,0,-3
+Łukasz Fabiański,GKP,West Ham,36,24,0,0,8,15,0,2,-2,0,0,0,-11
+Simon Adingra,MID,Brighton,35,12,10,3,1,0,0,0,0,0,0,0,0
+Jack Harrison,MID,Everton,35,24,0,3,4,0,0,0,0,0,0,0,0
+João Pedro Ferreira Silva,MID,Nott'm Forest,35,8,5,6,1,0,0,0,-4,0,0,0,0
 Cristian Romero,DEF,Spurs,35,24,6,0,8,0,0,2,-1,0,0,0,-4
-Jean-Ricner Bellegarde,MID,Wolves,35,20,5,6,2,0,0,0,-3,0,0,0,0
-Nélson Cabral Semedo,DEF,Wolves,35,32,0,9,12,0,0,0,-6,0,0,0,-12
+Riccardo Calafiori,DEF,Arsenal,34,16,12,3,4,0,0,1,-3,0,0,0,1
 Adam Smith,DEF,Bournemouth,34,24,0,0,12,0,0,0,-4,0,0,0,2
-Yankuba Minteh,MID,Brighton,34,12,10,6,1,0,0,0,-3,0,0,0,0
-Bilal El Khannouss,MID,Leicester,34,20,5,3,1,0,0,3,-1,0,0,0,0
-Ederson Santana de Moraes,GKP,Man City,34,26,0,3,8,9,0,2,-3,0,0,0,-11
-Ilkay Gündogan,MID,Man City,34,26,0,3,2,0,0,0,-1,0,0,0,0
-Sugawara Yukinari,DEF,Southampton,34,22,6,3,8,0,0,0,-3,0,0,0,-2
-Toti António Gomes,DEF,Wolves,34,30,0,3,12,0,0,4,-4,0,0,0,-11
+Chris Richards,DEF,Crystal Palace,34,22,0,0,16,0,0,0,-1,0,0,0,-3
+Norberto Bercique Gomes Betuncal,FWD,Everton,34,4,12,0,0,0,0,5,-1,0,0,0,0
+Rúben Gato Alves Dias,DEF,Man City,34,26,0,0,16,0,0,1,-3,0,-2,0,-4
+Carlos Soler,MID,West Ham,34,22,5,3,2,0,0,2,-5,0,0,0,0
 Ethan Pinnock,DEF,Brentford,33,32,12,0,4,0,0,0,-2,0,-2,0,-11
-Jack Harrison,MID,Everton,33,22,0,3,4,0,0,0,0,0,0,0,0
+Michael Keane,DEF,Everton,33,18,12,0,8,0,0,3,-4,0,0,0,-4
+Sander Berge,MID,Fulham,33,26,0,0,3,0,0,2,-2,0,0,0,0
 Conor Chaplin,MID,Ipswich,33,14,5,6,1,0,0,0,-1,0,0,0,0
-Darwin Núñez Ribeiro,FWD,Liverpool,33,14,8,6,0,0,0,1,-5,0,0,0,0
-Sandro Tonali,MID,Newcastle,33,22,0,3,5,0,0,0,-4,0,0,0,0
 Timo Werner,MID,Spurs,33,8,0,9,1,0,0,2,0,0,0,0,0
-Łukasz Fabiański,GKP,West Ham,33,20,0,0,8,13,0,2,-2,0,0,0,-8
 Crysencio Summerville,MID,West Ham,33,14,5,3,2,0,0,2,-2,0,0,0,0
+Hwang Hee-chan,MID,Wolves,33,10,10,3,0,0,0,0,0,0,0,0,0
+André Trindade da Costa Neto,MID,Wolves,33,34,0,0,3,0,0,0,-3,0,0,0,0
 Pau Torres,DEF,Aston Villa,32,36,0,0,8,0,0,0,-1,0,0,0,-11
+Tyler Adams,MID,Bournemouth,32,18,0,9,3,0,0,1,-4,0,0,0,0
 Enes Ünal,FWD,Bournemouth,32,4,8,3,0,0,0,4,-2,0,0,0,0
-Michael Keane,DEF,Everton,32,18,12,0,8,0,0,3,-4,0,0,0,-5
-Orel Mangala,MID,Everton,32,22,5,0,4,0,0,0,-2,0,0,0,0
+Malo Gusto,DEF,Chelsea,32,28,0,3,4,0,0,0,-3,0,0,0,0
+Tosin Adarabioyo,DEF,Chelsea,32,18,6,0,8,0,0,3,-2,0,0,0,-1
+Jesper Lindstrøm,MID,Everton,32,20,0,0,6,0,0,0,-1,0,0,0,0
+Joachim Andersen,DEF,Fulham,32,32,0,0,12,0,0,3,-4,-3,0,0,-8
 Carlos Henrique Casimiro,MID,Man Utd,32,20,5,0,3,0,0,3,-1,0,0,0,0
-Flynn Downes,MID,Southampton,32,32,5,0,2,0,0,0,-7,0,0,0,0
-Sepp van den Berg,DEF,Brentford,31,30,0,3,8,0,0,1,-1,0,0,0,-10
-Simon Adingra,MID,Brighton,31,10,10,3,0,0,0,0,0,0,0,0,0
-Mads Roerslev Rasmussen,DEF,Brentford,30,16,0,3,8,0,0,0,-1,0,0,0,4
-Harry Winks,MID,Leicester,30,26,0,6,0,0,0,0,-3,0,0,0,0
-Álex Moreno Lopera,DEF,Nott'm Forest,30,20,0,3,12,0,0,1,-2,0,0,0,-4
-Konstantinos Mavropanos,DEF,West Ham,30,26,0,0,8,0,0,4,-2,0,0,0,-6
-Yasin Ayari,MID,Brighton,29,22,0,0,4,0,0,0,-3,0,0,0,0
-Malo Gusto,DEF,Chelsea,29,28,0,3,4,0,0,0,-3,0,0,0,-3
-Bobby De Cordova-Reid,MID,Leicester,29,4,5,6,0,0,0,2,0,0,0,0,0
-Pervis Estupiñán,DEF,Brighton,28,26,0,3,4,0,0,3,-3,0,0,0,-5
-Jack Hinshelwood,MID,Brighton,28,20,5,0,3,0,0,3,-2,0,0,0,0
+Kobbie Mainoo,MID,Man Utd,32,30,0,0,5,0,0,0,-5,0,0,0,0
+Felipe Rodrigues da Silva,DEF,Nott'm Forest,32,6,0,0,12,0,0,2,-1,0,0,0,13
+Flynn Downes,MID,Southampton,32,34,5,0,2,0,0,0,-9,0,0,0,0
+Rodrigo Bentancur,MID,Spurs,32,22,10,0,2,0,0,1,-5,0,0,0,0
+Jefferson Lerma Solís,MID,Crystal Palace,31,30,0,0,3,0,0,0,-4,0,0,0,0
+David Moyes,MNG,Everton,31,0,0,0,0,0,0,0,0,0,0,0,0
+Álex Moreno Lopera,DEF,Nott'm Forest,31,20,0,3,12,0,0,1,-2,0,0,0,-3
+Danny Ings,FWD,West Ham,31,2,4,9,0,0,0,4,0,0,0,0,0
+Santiago Bueno,DEF,Wolves,31,30,0,0,12,0,0,0,0,0,0,0,-11
+Ethan Nwaneri,MID,Arsenal,30,6,15,0,0,0,0,1,-1,0,0,0,0
+Wes Burns,MID,Ipswich,30,24,0,3,1,0,0,0,-1,0,0,0,0
+Jens Cajuste,MID,Ipswich,30,28,0,0,1,0,0,0,-2,0,0,0,0
+Wout Faes,DEF,Leicester,30,34,6,0,4,0,0,0,-3,0,0,0,-11
+Konstantinos Mavropanos,DEF,West Ham,30,30,0,0,8,0,0,4,-2,-3,0,0,-7
+Jack Hinshelwood,MID,Brighton,29,22,5,0,3,0,0,3,-3,0,0,0,0
+Timothy Castagne,DEF,Fulham,29,18,0,3,8,0,0,0,-1,0,0,0,1
+Jacob Greaves,DEF,Ipswich,29,28,6,0,8,0,0,0,-2,0,0,0,-11
+Dara O'Shea,DEF,Ipswich,29,42,0,0,8,0,0,1,-5,0,0,0,-17
+Jack Clarke,MID,Ipswich,29,10,0,6,0,0,0,0,-1,0,0,0,0
+Joe Willock,MID,Newcastle,29,12,0,3,3,0,0,0,-2,0,0,0,0
+Boubacar Kamara,MID,Aston Villa,28,24,0,0,2,0,0,1,-2,0,0,0,0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,28,6,5,3,0,0,0,1,-1,0,0,0,0
 Mats Wieffer,MID,Brighton,28,8,5,6,1,0,0,3,-2,0,0,0,0
-Dara O'Shea,DEF,Ipswich,28,34,0,0,8,0,0,1,-5,0,0,0,-10
-Matheus Luiz Nunes,MID,Man City,28,12,0,9,1,0,0,2,-1,0,0,0,0
-Rúben Gato Alves Dias,DEF,Man City,28,24,0,0,12,0,0,1,-3,0,-2,0,-4
+Daichi Kamada,MID,Crystal Palace,28,20,0,0,3,0,0,0,-2,-3,0,0,0
 Micky van de Ven,DEF,Spurs,28,18,0,6,8,0,0,2,-4,0,0,0,-2
-Matt Doherty,DEF,Wolves,28,18,6,3,8,0,0,2,-2,0,-2,0,-5
+Guido Rodríguez,MID,West Ham,28,28,0,0,3,0,0,0,-5,0,0,0,0
+Rodrigo Martins Gomes,MID,Wolves,28,12,5,0,1,0,0,0,0,0,0,0,0
 Benjamin White,DEF,Arsenal,27,14,0,3,12,0,0,0,-2,0,0,0,0
-David Brooks,MID,Bournemouth,27,4,10,3,0,0,0,1,-2,0,0,0,0
-Fábio Freitas Gouveia Carvalho,MID,Brentford,27,6,5,3,0,0,0,1,-1,0,0,0,0
 Reiss Nelson,MID,Fulham,27,10,5,3,1,0,0,2,-1,0,0,0,0
-Saša Lukić,MID,Fulham,27,28,0,3,2,0,0,1,-7,0,0,0,0
-Wes Burns,MID,Ipswich,27,20,0,3,1,0,0,0,-1,0,0,0,0
-Wout Faes,DEF,Leicester,27,26,6,0,4,0,0,0,-2,0,0,0,-7
-Martin Dúbravka,GKP,Newcastle,27,10,0,0,16,2,0,0,0,0,0,0,-1
-Jan Bednarek,DEF,Southampton,27,32,0,0,8,0,0,2,-4,0,0,0,-11
-Rodrigo Bentancur,MID,Spurs,27,18,10,0,1,0,0,1,-5,0,0,0,0
-Hwang Hee-chan,MID,Wolves,27,8,10,0,0,0,0,0,0,0,0,0,0
-Riccardo Calafiori,DEF,Arsenal,26,16,6,3,4,0,0,1,-3,0,0,0,-1
-Matty Cash,DEF,Aston Villa,26,24,6,0,4,0,0,1,-5,0,0,0,-4
-Sander Berge,MID,Fulham,26,20,0,0,2,0,0,2,-2,0,0,0,0
+Victor Kristiansen,DEF,Leicester,27,42,0,3,4,0,0,0,-1,0,-2,0,-19
+Sean Longstaff,MID,Newcastle,27,16,0,3,2,0,0,0,-2,0,0,0,0
+Nicolás Domínguez,MID,Nott'm Forest,27,24,0,0,3,0,0,0,-6,0,0,0,0
+Archie Gray,MID,Spurs,27,20,0,0,2,0,0,0,0,0,-2,0,0
+Mathias Jensen,MID,Brentford,26,16,0,3,2,0,0,1,-1,0,0,0,0
+Tariq Lamptey,DEF,Brighton,26,12,12,6,0,0,0,1,0,0,0,0,-5
+Eddie Nketiah,FWD,Crystal Palace,26,12,0,6,0,0,0,0,-3,0,0,0,0
+Issa Diop,DEF,Fulham,26,24,0,0,4,0,0,0,-2,0,-2,0,2
 Abdul Fatawu,MID,Leicester,26,12,0,6,0,0,0,3,0,0,0,0,0
-Kobbie Mainoo,MID,Man Utd,26,24,0,0,5,0,0,0,-5,0,0,0,0
-Sean Longstaff,MID,Newcastle,26,16,0,3,2,0,0,0,-2,0,0,0,0
-João Pedro Ferreira Silva,MID,Nott'm Forest,26,6,0,6,1,0,0,0,-3,0,0,0,0
-Santiago Bueno,DEF,Wolves,26,24,0,0,12,0,0,0,0,0,0,0,-10
-Jacob Ramsey,MID,Aston Villa,25,14,0,6,0,0,0,0,-1,0,0,0,0
-Jefferson Lerma Solís,MID,Crystal Palace,25,24,0,0,2,0,0,0,-4,0,0,0,0
-Jack Clarke,MID,Ipswich,25,8,0,6,0,0,0,0,-1,0,0,0,0
-Joe Willock,MID,Newcastle,25,12,0,3,3,0,0,0,-2,0,0,0,0
-Felipe Rodrigues da Silva,DEF,Nott'm Forest,25,4,0,0,8,0,0,2,0,0,0,0,11
-André Trindade da Costa Neto,MID,Wolves,25,26,0,0,2,0,0,0,-2,0,0,0,0
-Tariq Lamptey,DEF,Brighton,24,8,12,6,0,0,0,1,0,0,0,0,-3
-Issa Diop,DEF,Fulham,24,24,0,0,4,0,0,0,-2,0,-2,0,0
-Jens Cajuste,MID,Ipswich,24,22,0,0,1,0,0,0,-2,0,0,0,0
-Jack Grealish,MID,Man City,24,12,0,3,1,0,0,3,-3,0,0,0,0
-Danny Ings,FWD,West Ham,24,2,4,6,0,0,0,4,0,0,0,0,0
-Guido Rodríguez,MID,West Ham,24,24,0,0,3,0,0,0,-5,0,0,0,0
+Paul Onuachu,FWD,Southampton,26,12,8,0,0,0,0,1,-1,0,0,0,0
+Jack Grealish,MID,Man City,25,12,0,3,1,0,0,3,-3,0,0,0,0
+Stefan Ortega Moreno,GKP,Man City,25,18,0,0,8,8,0,0,-1,0,0,0,-8
+Kieran Trippier,DEF,Newcastle,25,10,0,0,8,0,0,2,-1,0,0,0,6
+Edson Álvarez Velázquez,MID,West Ham,25,28,0,3,1,0,0,0,-6,-3,0,0,0
+Matt O'Riley,MID,Brighton,24,10,5,3,2,0,0,2,-1,0,-2,0,0
+João Félix Sequeira,MID,Chelsea,24,6,5,6,1,0,0,0,-2,0,0,0,0
+Konstantinos Tsimikas,DEF,Liverpool,24,6,0,3,8,0,0,1,-1,0,0,0,7
+Nathan Aké,DEF,Man City,24,14,0,0,12,0,0,0,0,0,0,0,-2
+Christian Eriksen,MID,Man Utd,24,14,0,3,3,0,0,0,-2,0,0,0,0
+Harry Maguire,DEF,Man Utd,24,24,0,0,8,0,0,2,-7,0,0,0,-3
+Taiwo Awoniyi,FWD,Nott'm Forest,24,4,4,0,0,0,0,0,0,0,0,0,0
+Radu Drăgușin,DEF,Spurs,24,28,0,0,8,0,0,0,-1,0,0,0,-11
+Alphonse Areola,GKP,West Ham,24,24,0,0,4,13,0,0,0,0,-2,0,-15
 Jean-Clair Todibo,DEF,West Ham,24,16,0,0,8,0,0,1,0,0,0,0,-1
-Ethan Nwaneri,MID,Arsenal,23,4,10,0,0,0,0,1,-1,0,0,0,0
-Jesper Lindstrøm,MID,Everton,23,14,0,0,3,0,0,0,0,0,0,0,0
-Victor Kristiansen,DEF,Leicester,23,34,0,3,4,0,0,0,-1,0,-2,0,-15
-Nathan Aké,DEF,Man City,23,12,0,0,12,0,0,0,0,0,0,0,-1
-Stefan Ortega Moreno,GKP,Man City,23,14,0,0,8,7,0,0,-1,0,0,0,-5
-Kieran Trippier,DEF,Newcastle,23,10,0,0,8,0,0,2,-1,0,0,0,4
-Rodrigo Martins Gomes,MID,Wolves,23,10,5,0,1,0,0,0,0,0,0,0,0
-Tosin Adarabioyo,DEF,Chelsea,22,14,0,0,8,0,0,3,-1,0,0,0,-2
-Joachim Andersen,DEF,Fulham,22,24,0,0,8,0,0,3,-3,-3,0,0,-7
-Nicolás Domínguez,MID,Nott'm Forest,22,22,0,0,3,0,0,0,-6,0,0,0,0
-Radu Drăgușin,DEF,Spurs,22,22,0,0,8,0,0,0,-1,0,0,0,-7
+Tommy Doyle,MID,Wolves,23,6,0,3,0,0,0,0,-1,0,0,0,0
+Axel Disasi,DEF,Aston Villa,22,8,6,0,8,0,0,0,-1,0,0,0,1
+Yehor Yarmoliuk,MID,Brentford,22,12,0,0,0,0,0,0,-2,0,0,0,0
+Jack Taylor,MID,Ipswich,22,2,5,0,0,0,0,1,-3,0,0,0,0
+Boubakary Soumaré,MID,Leicester,22,26,0,0,0,0,0,0,-8,0,0,0,0
+John Stones,DEF,Man City,22,10,12,0,0,0,0,1,-1,0,0,0,0
+Djed Spence,DEF,Spurs,22,14,0,3,8,0,0,3,-1,-3,0,0,-2
 Niclas Füllkrug,FWD,West Ham,22,6,8,3,0,0,0,1,-1,0,0,0,0
 Diego Carlos Santos Silva,DEF,Aston Villa,21,16,0,0,8,0,0,1,-1,0,0,0,-3
 Marcos Senesi,DEF,Bournemouth,21,22,0,0,4,0,0,3,-4,0,0,0,-4
-Mathias Jensen,MID,Brentford,21,14,0,3,2,0,0,1,-1,0,0,0,0
-Axel Disasi,DEF,Chelsea,21,8,6,0,8,0,0,0,-1,0,0,0,0
-Jacob Greaves,DEF,Ipswich,21,22,0,0,8,0,0,0,-2,0,0,0,-7
-John Stones,DEF,Man City,21,8,12,0,0,0,0,1,-1,0,0,0,1
-Eddie Nketiah,FWD,Crystal Palace,20,12,0,3,0,0,0,0,-3,0,0,0,0
-Daichi Kamada,MID,Crystal Palace,20,16,0,0,1,0,0,0,-2,-3,0,0,0
-Taiwo Awoniyi,FWD,Nott'm Forest,20,4,4,0,0,0,0,0,0,0,0,0,0
-Archie Gray,MID,Spurs,20,12,0,0,1,0,0,0,0,0,0,0,0
-Carlos Soler,MID,West Ham,20,16,0,3,2,0,0,0,-5,0,0,0,0
-Tommy Doyle,MID,Wolves,20,6,0,3,0,0,0,0,-1,0,0,0,0
-Boubacar Kamara,MID,Aston Villa,19,16,0,0,1,0,0,0,-1,0,0,0,0
+George Hirst,FWD,Ipswich,21,2,4,3,0,0,0,2,-1,0,0,0,0
+Manuel Ugarte,MID,Man Utd,21,26,0,0,2,0,0,0,-8,0,-2,0,0
+Pablo Sarabia,MID,Wolves,21,10,5,3,1,0,0,0,-2,0,0,0,0
+Mikel Arteta,MNG,Arsenal,20,0,0,0,0,0,0,0,0,0,0,0,0
+Reece James,DEF,Chelsea,20,12,6,3,0,0,0,1,-1,0,0,0,-1
+Tom Cairney,MID,Fulham,20,4,5,0,1,0,0,0,-2,-3,0,0,0
+Kalvin Phillips,MID,Ipswich,20,20,0,0,1,0,0,0,-1,-3,0,0,0
+Arne Slot,MNG,Liverpool,20,0,0,0,0,0,0,0,0,0,0,0,0
+Ramón Sosa,MID,Nott'm Forest,20,2,5,0,1,0,0,0,-1,0,0,0,0
+Lesley Ugochukwu,MID,Southampton,20,14,0,3,0,0,0,0,-3,0,0,0,0
+Lucas Bergvall,MID,Spurs,20,10,0,0,1,0,0,0,-3,0,0,0,0
+Richarlison de Andrade,FWD,Spurs,20,4,8,3,0,0,0,0,-1,0,0,0,0
+Evan Ferguson,FWD,West Ham,20,4,4,0,0,0,0,2,0,0,0,0,0
+Vítor Manuel de Oliveira Lopes Pereira,MNG,Wolves,20,0,0,0,0,0,0,0,0,0,0,0,0
+Ian Maatsen,DEF,Aston Villa,19,6,0,3,0,0,0,0,-2,0,0,0,12
 Luis Sinisterra,MID,Bournemouth,19,2,5,3,0,0,0,2,0,0,0,0,0
-Evan Ferguson,FWD,Brighton,19,4,4,0,0,0,0,2,0,0,0,0,0
+Mark Travers,GKP,Bournemouth,19,10,0,0,4,6,0,1,0,0,0,0,-2
 Ferdi Kadioglu,DEF,Brighton,19,10,6,0,8,0,0,0,-1,0,0,0,-4
 Wesley Fofana,DEF,Chelsea,19,24,0,0,4,0,0,2,-6,0,0,0,-5
-João Félix Sequeira,MID,Chelsea,19,6,5,3,1,0,0,0,-2,0,0,0,0
-Timothy Castagne,DEF,Fulham,19,10,0,3,4,0,0,0,0,0,0,0,2
-Jack Taylor,MID,Ipswich,19,2,5,0,0,0,0,1,-3,0,0,0,0
-Christian Eriksen,MID,Man Utd,19,14,0,0,3,0,0,0,-2,0,0,0,0
-Ramón Sosa,MID,Nott'm Forest,19,2,5,0,1,0,0,0,0,0,0,0,0
+Cheick Doucouré,MID,Crystal Palace,19,8,0,3,1,0,0,0,-1,0,0,0,0
+Justin Devenny,MID,Crystal Palace,19,4,5,0,0,0,0,1,0,0,0,0,0
+Julio Enciso,MID,Ipswich,19,6,0,3,1,0,0,0,-1,0,0,0,0
+Patson Daka,FWD,Leicester,19,2,4,0,0,0,0,2,0,0,0,0,0
 Fraser Forster,GKP,Spurs,19,14,0,0,4,9,0,0,0,0,0,0,-8
-Alphonse Areola,GKP,West Ham,19,20,0,0,4,11,0,0,0,0,-2,0,-14
-Yehor Yarmoliuk,MID,Brentford,18,10,0,0,0,0,0,0,-2,0,0,0,0
-Norberto Bercique Gomes Betuncal,FWD,Everton,18,2,4,0,0,0,0,2,-1,0,0,0,0
-Manuel Ugarte,MID,Man Utd,18,18,0,0,1,0,0,0,-5,0,0,0,0
-Edson Álvarez Velázquez,MID,West Ham,18,22,0,0,1,0,0,0,-4,-3,0,0,0
-Ian Maatsen,DEF,Aston Villa,17,4,0,3,0,0,0,0,-1,0,0,0,11
+Marco Alexandre Saraiva da Silva,MNG,Fulham,18,0,0,0,0,0,0,0,0,0,0,0,0
+Kasey McAteer,MID,Leicester,18,8,0,3,1,0,0,0,-1,0,0,0,0
+Caleb Okoli,DEF,Leicester,18,18,0,0,4,0,0,1,-2,0,0,0,-3
+Oliver Skipp,MID,Leicester,18,14,0,0,1,0,0,0,-4,0,0,0,0
+Ben Davies,DEF,Spurs,18,12,0,0,8,0,0,0,-1,0,0,0,-1
+Vladimír Coufal,DEF,West Ham,18,16,0,0,4,0,0,1,-2,0,-2,0,1
+Oleksandr Zinchenko,DEF,Arsenal,17,4,0,0,8,0,0,0,-1,0,0,0,6
+Myles Lewis-Skelly,MID,Arsenal,17,14,5,0,2,0,0,0,-2,-3,0,0,0
 Igor Julio dos Santos de Paulo,DEF,Brighton,17,18,0,0,4,0,0,0,-4,0,0,0,-1
-Tom Cairney,MID,Fulham,17,4,5,0,1,0,0,0,-2,-3,0,0,0
-George Hirst,FWD,Ipswich,17,2,4,3,0,0,0,2,-1,0,0,0,0
-Kasey McAteer,MID,Leicester,17,8,0,3,1,0,0,0,0,0,0,0,0
-Caleb Okoli,DEF,Leicester,17,18,0,0,4,0,0,1,-2,0,0,0,-4
+Axel Tuanzebe,DEF,Ipswich,17,22,0,0,4,0,0,0,-3,0,0,0,-6
 Craig Dawson,DEF,Wolves,17,20,0,3,4,0,0,1,-2,0,-4,0,-5
-Oleksandr Zinchenko,DEF,Arsenal,16,4,0,0,8,0,0,0,-1,0,0,0,5
-Mark Travers,GKP,Bournemouth,16,8,0,0,4,4,0,1,0,0,0,0,-1
-Matt O'Riley,MID,Brighton,16,8,5,0,1,0,0,2,-1,0,-2,0,0
-Cheick Doucouré,MID,Crystal Palace,16,8,0,3,0,0,0,0,-1,0,0,0,0
-Justin Devenny,MID,Crystal Palace,16,4,5,0,0,0,0,1,0,0,0,0,0
-Kalvin Phillips,MID,Ipswich,16,16,0,0,1,0,0,0,-1,-3,0,0,0
-Roméo Lavia,MID,Chelsea,15,14,0,3,1,0,0,0,-3,0,0,0,0
-Chris Richards,DEF,Crystal Palace,15,14,0,0,4,0,0,0,-1,0,0,0,-2
-Adam Wharton,MID,Crystal Palace,15,16,0,0,1,0,0,0,0,0,0,0,0
-Cameron Burgess,DEF,Ipswich,15,18,0,3,0,0,0,0,0,0,0,0,-6
-Axel Tuanzebe,DEF,Ipswich,15,18,0,0,4,0,0,0,-3,0,0,0,-4
-Patson Daka,FWD,Leicester,15,2,4,0,0,0,0,2,0,0,0,0,0
-Oliver Skipp,MID,Leicester,15,14,0,0,1,0,0,0,-4,0,0,0,0
-Konstantinos Tsimikas,DEF,Liverpool,15,4,0,0,4,0,0,1,0,0,0,0,6
-Harry Maguire,DEF,Man Utd,15,18,0,0,4,0,0,0,-5,0,0,0,-2
-James Ward-Prowse,MID,Nott'm Forest,15,10,0,3,1,0,0,0,0,-3,0,0,0
-Tyler Adams,MID,Bournemouth,14,10,0,0,2,0,0,0,-3,0,0,0,0
-Ben Johnson,DEF,Ipswich,14,14,0,3,0,0,0,0,-2,0,0,0,-1
-Boubakary Soumaré,MID,Leicester,14,18,0,0,0,0,0,0,-8,0,0,0,0
+Tyrone Mings,DEF,Aston Villa,16,10,0,0,4,0,0,3,-1,0,0,0,0
+Nathaniel Clyne,DEF,Crystal Palace,16,8,0,0,4,0,0,0,-1,0,0,0,5
+Adam Wharton,MID,Crystal Palace,16,16,0,0,1,0,0,0,0,0,0,0,0
+Kamaldeen Sulemana,MID,Southampton,16,6,0,3,0,0,0,0,0,0,0,0,0
+Adam Lallana,MID,Southampton,16,10,0,6,0,0,0,1,-4,0,0,0,0
+Roméo Lavia,MID,Chelsea,15,16,0,3,1,0,0,0,-4,0,0,0,0
+Jake O'Brien,DEF,Everton,15,6,0,0,8,0,0,0,-2,0,0,0,3
+Nuno Herlander Simões Espírito Santo,MNG,Nott'm Forest,15,0,0,0,0,0,0,0,0,0,0,0,0
+Ryan Manning,DEF,Southampton,15,20,0,3,0,0,0,0,-1,0,0,0,-7
+James Ward-Prowse,MID,West Ham,15,10,0,3,1,0,0,0,0,-3,0,0,0
+Brajan Gruda,MID,Brighton,14,10,0,0,1,0,0,0,0,0,0,0,0
+James Garner,MID,Everton,14,6,0,3,2,0,0,0,-1,0,0,0,0
+Cameron Burgess,DEF,Ipswich,14,20,0,3,0,0,0,0,0,0,0,0,-9
+Ben Johnson,DEF,Ipswich,14,16,0,3,0,0,0,0,-2,0,0,0,-3
+Christian Walton,GKP,Ipswich,14,12,0,0,4,5,0,2,0,0,0,0,-9
 Joe Gomez,DEF,Liverpool,14,12,0,0,4,0,0,0,-1,0,0,0,-1
 Jonny Evans,DEF,Man Utd,14,6,0,0,4,0,0,3,-1,0,0,0,2
-Adam Lallana,MID,Southampton,14,10,0,6,0,0,0,1,-4,0,0,0,0
-Ryan Manning,DEF,Southampton,14,18,0,3,0,0,0,0,-1,0,0,0,-6
-Lucas Bergvall,MID,Spurs,14,4,0,0,1,0,0,0,-2,0,0,0,0
+James Bree,DEF,Southampton,14,16,0,3,0,0,0,0,0,0,0,0,-5
+Mikey Moore,MID,Spurs,14,4,0,6,0,0,0,0,0,0,0,0,0
 Jorge Luiz Frello Filho,MID,Arsenal,13,12,0,0,1,0,0,0,-3,0,0,0,0
 Jakub Kiwior,DEF,Arsenal,13,4,0,0,4,0,0,0,0,0,0,0,5
-Julio Enciso,MID,Brighton,13,4,0,0,1,0,0,0,0,0,0,0,0
-Brajan Gruda,MID,Brighton,13,8,0,0,1,0,0,0,0,0,0,0,0
-Nathaniel Clyne,DEF,Crystal Palace,13,8,0,0,4,0,0,0,-1,0,0,0,2
-Luke Woolfenden,DEF,Ipswich,13,14,0,0,4,0,0,0,-1,0,0,0,-4
+James Hill,DEF,Bournemouth,13,3,0,3,4,0,0,0,0,0,0,0,3
+Andoni Iraola,MNG,Bournemouth,13,0,0,0,0,0,0,0,0,0,0,0,0
+Nathan Broadhead,MID,Ipswich,13,8,0,0,1,0,0,0,-1,0,0,0,0
+Luke Woolfenden,DEF,Ipswich,13,16,0,0,4,0,0,0,-2,0,0,0,-5
+Jaden Philogene,MID,Ipswich,13,6,0,0,1,0,0,0,-2,-3,0,0,0
+Conor Bradley,DEF,Liverpool,13,2,0,0,4,0,0,0,-1,0,0,0,8
 Kyle Walker,DEF,Man City,13,18,0,0,0,0,0,0,-3,0,0,0,-2
 Nathan Wood-Gordon,DEF,Southampton,13,12,0,0,4,0,0,2,-2,0,0,0,-3
 Ben Brereton Díaz,MID,Southampton,13,8,0,0,0,0,0,0,-1,0,0,0,0
-Vladimír Coufal,DEF,West Ham,13,12,0,0,4,0,0,0,-2,0,-2,0,1
-James Hill,DEF,Bournemouth,12,4,0,3,4,0,0,0,0,0,0,0,1
-Christian Walton,GKP,Ipswich,12,6,0,0,4,3,0,2,0,0,0,0,-3
-Conor Bradley,DEF,Liverpool,12,2,0,0,4,0,0,0,-1,0,0,0,7
+Raheem Sterling,MID,Arsenal,12,6,0,3,0,0,0,0,-1,0,0,0,0
+Jeffrey Schlupp,MID,Crystal Palace,12,0,0,0,0,0,0,0,0,0,0,0,0
+Harvey Elliott,MID,Liverpool,12,0,0,3,0,0,0,0,0,0,0,0,0
+James McAtee,MID,Man City,12,0,5,0,0,0,0,0,0,0,0,0,0
+Lloyd Kelly,DEF,Newcastle,12,8,0,3,0,0,0,0,-2,0,0,0,3
+Alex McCarthy,GKP,Southampton,12,10,0,0,0,8,0,0,0,0,0,0,-6
+Antonín Kinsky,GKP,Spurs,12,8,0,0,4,3,0,0,0,0,0,0,-3
 Sam Johnstone,GKP,Wolves,12,14,0,0,0,7,0,0,0,0,0,0,-9
+Emiliano Buendía Stati,MID,Aston Villa,11,0,0,0,0,0,0,0,-1,0,0,0,0
 Alex Scott,MID,Bournemouth,11,4,0,0,1,0,0,0,0,0,0,0,0
-Jeffrey Schlupp,MID,Crystal Palace,11,0,0,0,0,0,0,0,0,0,0,0,0
-Lloyd Kelly,DEF,Newcastle,11,8,0,3,0,0,0,0,-2,0,0,0,2
-Lesley Ugochukwu,MID,Southampton,11,8,0,0,0,0,0,0,-2,0,0,0,0
-Paul Onuachu,FWD,Southampton,11,8,0,0,0,0,0,0,-1,0,0,0,0
-Djed Spence,DEF,Spurs,11,8,0,3,4,0,0,0,-1,-3,0,0,0
-Pablo Sarabia,MID,Wolves,11,4,5,0,0,0,0,0,-1,0,0,0,0
+Kristoffer Ajer,DEF,Brentford,11,20,0,0,0,0,0,0,-3,0,0,0,-6
+Kiernan Dewsbury-Hall,MID,Chelsea,11,2,0,3,0,0,0,1,0,0,0,0,0
+Oliver Glasner,MNG,Crystal Palace,11,0,0,0,0,0,0,0,0,0,0,0,0
+Jannik Vestergaard,DEF,Leicester,11,30,0,0,0,0,0,0,-5,0,0,0,-14
+Jack Stephens,DEF,Southampton,11,20,0,0,4,0,0,2,-2,-6,0,0,-7
+Ange Postecoglou,MNG,Spurs,11,0,0,0,0,0,0,0,0,0,0,0,0
 Philip Billing,MID,Bournemouth,10,2,0,0,0,0,0,0,-1,0,0,0,0
+Jakub Stolarczyk,GKP,Leicester,10,12,0,0,0,5,0,0,-1,0,0,0,-6
+Endo Wataru,MID,Liverpool,10,0,0,0,0,0,0,0,0,0,0,0,0
+Pep Guardiola,MNG,Man City,10,0,0,0,0,0,0,0,0,0,0,0,0
+Leny Yoro,DEF,Man Utd,10,10,0,0,0,0,0,0,-2,0,0,0,2
+Miguel Almirón Rejala,MID,Newcastle,10,2,0,0,0,0,0,0,0,0,0,0,0
 Emil Krafth,DEF,Newcastle,10,4,0,0,4,0,0,0,0,0,0,0,2
-Alex McCarthy,GKP,Southampton,10,8,0,0,0,6,0,0,0,0,0,0,-4
-Jack Stephens,DEF,Southampton,10,20,0,0,4,0,0,2,-2,-6,0,0,-8
-Ben Davies,DEF,Spurs,10,6,0,0,4,0,0,0,-1,0,0,0,1
-Raheem Sterling,MID,Arsenal,9,4,0,3,0,0,0,0,0,0,0,0,0
-Myles Lewis-Skelly,MID,Arsenal,9,6,0,0,2,0,0,0,-1,0,0,0,0
-Emiliano Buendía Stati,MID,Aston Villa,9,0,0,0,0,0,0,0,-1,0,0,0,0
-Jaden Philogene,MID,Aston Villa,9,4,0,0,1,0,0,0,-2,-3,0,0,0
-Kristoffer Ajer,DEF,Brentford,9,18,0,0,0,0,0,0,-3,0,0,0,-6
+Eddie Howe,MNG,Newcastle,10,0,0,0,0,0,0,0,0,0,0,0,0
+Will Smallbone,MID,Southampton,10,6,0,0,0,0,0,0,0,0,0,0,0
+Graham Potter,MNG,West Ham,10,0,0,0,0,0,0,0,0,0,0,0,0
 Jason Steele,GKP,Brighton,9,4,0,0,4,1,0,1,0,0,0,0,-1
-Kamaldeen Sulemana,MID,Southampton,9,4,0,0,0,0,0,0,0,0,0,0,0
+Adam Webster,DEF,Brighton,9,3,0,0,4,0,0,0,0,0,0,0,2
+Enzo Maresca,MNG,Chelsea,9,0,0,0,0,0,0,0,0,0,0,0,0
+Tim Iroegbunam,MID,Everton,9,8,0,0,0,0,0,0,-2,0,0,0,0
+Ruben Filipe Marques Diogo Amorim,MNG,Man Utd,9,0,0,0,0,0,0,0,0,0,0,0,0
+William Osula,FWD,Newcastle,9,0,0,0,0,0,0,0,0,0,0,0,0
+Ivan Juric,MNG,Southampton,9,0,0,0,0,0,0,0,0,0,0,0,0
+Aaron Cresswell,DEF,West Ham,9,6,0,0,0,0,0,0,-2,0,0,0,5
+Emmanuel Agbadou,DEF,Wolves,9,8,0,0,4,0,0,0,-1,0,0,0,-2
 Max Aarons,DEF,Bournemouth,8,2,0,0,4,0,0,0,0,0,0,0,2
 Julián Araujo Zúñiga,DEF,Bournemouth,8,10,0,0,0,0,0,0,-1,0,0,0,-1
-Tim Iroegbunam,MID,Everton,8,8,0,0,0,0,0,0,-2,0,0,0,0
+Ben Mee,DEF,Brentford,8,4,0,0,4,0,0,0,-2,0,0,0,2
+Thomas Frank,MNG,Brentford,8,0,0,0,0,0,0,0,0,0,0,0,0
+Filip Jørgensen,GKP,Chelsea,8,6,0,0,0,3,0,0,0,0,0,0,-1
+Romain Esse,MID,Crystal Palace,8,0,5,0,0,0,0,2,0,0,0,0,0
 Ali Al-Hamadi,FWD,Ipswich,8,0,0,0,0,0,0,0,-3,0,0,0,0
-Nathan Broadhead,MID,Ipswich,8,4,0,0,1,0,0,0,-1,0,0,0,0
-Jannik Vestergaard,DEF,Leicester,8,22,0,0,0,0,0,0,-4,0,0,0,-10
-Endo Wataru,MID,Liverpool,8,0,0,0,0,0,0,0,0,0,0,0,0
+Massimo Luongo,MID,Ipswich,8,4,0,0,0,0,0,0,0,0,0,0,0
+Conor Coady,DEF,Leicester,8,16,0,0,0,0,0,0,-1,0,0,0,-7
+Ruud van Nistelrooij,MNG,Leicester,8,0,0,0,0,0,0,0,0,0,0,0,0
+Antony Matheus dos Santos,MID,Man Utd,8,0,0,0,0,0,0,0,0,0,0,0,0
 Mason Mount,MID,Man Utd,8,8,0,0,1,0,0,0,-2,0,0,0,0
-Miguel Almirón Rejala,MID,Newcastle,8,2,0,0,0,0,0,0,0,0,0,0,0
+Ibrahim Sangaré,MID,Nott'm Forest,8,6,0,3,1,0,0,0,-2,0,0,0,0
 Joe Lumley,GKP,Southampton,8,6,0,0,0,4,0,0,0,0,0,0,-2
+Andy Irving,MID,West Ham,8,2,0,0,0,0,0,0,-2,0,0,0,0
 Carlos Roberto Forbs Borges,MID,Wolves,8,2,0,0,0,0,0,0,-2,0,0,0,0
 Norberto Murara Neto,GKP,Arsenal,7,4,0,0,0,3,0,0,0,0,0,0,0
-Ben Mee,DEF,Brentford,7,4,0,0,4,0,0,0,-2,0,0,0,1
 Mykhailo Mudryk,MID,Chelsea,7,2,0,0,0,0,0,0,0,0,0,0,0
 Renato Palma Veiga,MID,Chelsea,7,2,0,0,1,0,0,0,-2,0,0,0,0
-James Garner,MID,Everton,7,4,0,0,1,0,0,0,-1,0,0,0,0
-Massimo Luongo,MID,Ipswich,7,4,0,0,0,0,0,0,0,0,0,0,0
+Nathan Patterson,DEF,Everton,7,0,0,0,0,0,0,0,0,0,0,0,7
+Josh King,MID,Fulham,7,2,0,0,1,0,0,0,0,0,0,0,0
 Chiedozie Ogbene,MID,Ipswich,7,6,0,0,0,0,0,0,0,0,0,0,0
 Odsonne Edouard,FWD,Leicester,7,2,0,0,0,0,0,0,0,0,0,0,0
-Conor Coady,DEF,Leicester,7,16,0,0,0,0,0,0,-1,0,0,0,-8
-Harvey Elliott,MID,Liverpool,7,0,0,0,0,0,0,0,0,0,0,0,0
-Richarlison de Andrade,FWD,Spurs,7,0,0,3,0,0,0,0,-1,0,0,0,0
+Sven Botman,DEF,Newcastle,7,6,0,0,4,0,0,0,-1,0,0,0,-2
+Ryan Fraser,MID,Southampton,7,8,0,0,0,0,0,0,0,-3,0,0,0
 Harrison Reed,MID,Fulham,6,0,0,0,0,0,0,0,-2,0,0,0,0
-Jakub Stolarczyk,GKP,Leicester,6,6,0,0,0,3,0,0,0,0,0,0,-3
-Antony Matheus dos Santos,MID,Man Utd,6,0,0,0,0,0,0,0,0,0,0,0,0
-Leny Yoro,DEF,Man Utd,6,4,0,0,0,0,0,0,-1,0,0,0,3
-William Osula,FWD,Newcastle,6,0,0,0,0,0,0,0,0,0,0,0,0
-Ryan Fraser,MID,Southampton,6,8,0,0,0,0,0,0,0,-3,0,0,0
-James Bree,DEF,Southampton,6,8,0,0,0,0,0,0,0,0,0,0,-2
-Will Smallbone,MID,Southampton,6,6,0,0,0,0,0,0,0,0,0,0,0
 Wilson Odobert,MID,Spurs,6,4,0,0,1,0,0,0,0,0,0,0,0
-Tyrone Mings,DEF,Aston Villa,5,4,0,0,0,0,0,0,-1,0,0,0,2
+Luis Guilherme Lira dos Santos,MID,West Ham,6,0,0,0,0,0,0,0,0,0,0,0,0
+Ollie Scarles,DEF,West Ham,6,0,0,0,0,0,0,0,0,0,0,0,6
+Kosta Nedeljković,DEF,Aston Villa,5,0,0,0,0,0,0,0,0,0,0,0,5
+Daniel Jebbison,FWD,Bournemouth,5,0,0,0,0,0,0,0,-1,0,0,0,0
 Yunus Emre Konak,MID,Brentford,5,0,0,0,0,0,0,0,0,0,0,0,0
 Igor Thiago Nascimento Rodrigues,FWD,Brentford,5,2,0,0,0,0,0,0,0,0,0,0,0
 Paris Maghoma,MID,Brentford,5,0,0,0,0,0,0,0,0,0,0,0,0
 James Milner,MID,Brighton,5,3,0,0,1,0,0,0,-1,0,0,0,0
 Benoît Badiashile,DEF,Chelsea,5,4,0,0,0,0,0,0,0,0,0,0,1
-Kiernan Dewsbury-Hall,MID,Chelsea,5,0,0,0,0,0,0,0,0,0,0,0,0
-Reece James,DEF,Chelsea,5,6,0,0,0,0,0,0,0,0,0,0,-1
-Filip Jørgensen,GKP,Chelsea,5,4,0,0,0,2,0,0,0,0,0,0,-1
 Armando Broja,FWD,Everton,5,4,0,0,0,0,0,0,-1,0,0,0,0
-Josh King,MID,Fulham,5,2,0,0,1,0,0,0,0,0,0,0,0
+Lewis Miley,MID,Newcastle,5,0,0,0,0,0,0,0,0,0,0,0,0
+Willy Boly,DEF,Nott'm Forest,5,2,0,0,0,0,0,0,-1,0,0,0,4
 Charlie Taylor,DEF,Southampton,5,4,0,0,0,0,0,0,-1,0,0,0,2
-Mikey Moore,MID,Spurs,5,2,0,0,0,0,0,0,0,0,0,0,0
-Aaron Cresswell,DEF,West Ham,5,0,0,0,0,0,0,0,-1,0,0,0,6
-Andy Irving,MID,West Ham,5,0,0,0,0,0,0,0,-1,0,0,0,0
-Kosta Nedeljković,DEF,Aston Villa,4,0,0,0,0,0,0,0,0,0,0,0,4
-Nathan Patterson,DEF,Everton,4,0,0,0,0,0,0,0,0,0,0,0,4
+Lamare Bogarde,DEF,Aston Villa,4,8,0,0,0,0,0,0,-2,0,0,0,-2
+Unai Emery,MNG,Aston Villa,4,0,0,0,0,0,0,0,0,0,0,0,0
+Jakub Moder,MID,Brighton,4,0,0,0,0,0,0,0,0,0,0,0,0
 Jorge Cuenca Barreno,DEF,Fulham,4,2,0,0,0,0,0,0,0,0,0,0,2
 Hamza Choudhury,MID,Leicester,4,2,0,0,0,0,0,0,0,0,0,0,0
 Jarell Quansah,DEF,Liverpool,4,4,0,0,0,0,0,0,-1,0,0,0,1
-James McAtee,MID,Man City,4,0,0,0,0,0,0,0,0,0,0,0,0
+Omar Marmoush,FWD,Man City,4,4,0,0,0,0,0,0,0,0,0,0,0
 Victor Lindelöf,DEF,Man Utd,4,0,0,0,0,0,0,0,-1,0,0,0,5
-Willy Boly,DEF,Nott'm Forest,4,2,0,0,0,0,0,0,-1,0,0,0,3
-Ibrahim Sangaré,MID,Nott'm Forest,4,6,0,0,1,0,0,0,-2,0,0,0,0
-Luis Guilherme Lira dos Santos,MID,West Ham,4,0,0,0,0,0,0,0,0,0,0,0,0
+Toby Collyer,MID,Man Utd,4,0,0,0,0,0,0,0,0,0,0,0,0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,4,2,0,0,1,0,0,0,0,0,0,0,0
 Billy Gilmour,MID,Brighton,3,2,0,0,0,0,0,0,0,0,0,0,0
-Jakub Moder,MID,Brighton,3,0,0,0,0,0,0,0,0,0,0,0,0
+Marc Guiu Paz,FWD,Chelsea,3,0,0,0,0,0,0,0,0,0,0,0,0
+Josh Acheampong,DEF,Chelsea,3,4,0,0,0,0,0,0,0,0,0,0,-1
 Séamus Coleman,DEF,Everton,3,4,0,0,0,0,0,0,-1,0,0,0,0
+Ryan Sessegnon,DEF,Fulham,3,0,0,0,0,0,0,0,0,0,0,0,3
+Federico Chiesa,MID,Liverpool,3,0,0,0,0,0,0,0,0,0,0,0,0
 Callum Wilson,FWD,Newcastle,3,0,0,0,0,0,0,0,-1,0,0,0,0
 Harry Toffolo,DEF,Nott'm Forest,3,0,0,0,0,0,0,0,0,0,0,0,3
 Ross Stewart,FWD,Southampton,3,2,0,0,0,0,0,0,-1,0,0,0,0
+Will Lankshear,FWD,Spurs,3,0,0,0,0,0,0,0,0,0,0,0,0
 Yerson Mosquera,DEF,Wolves,3,10,0,0,0,0,0,0,-2,0,0,0,-5
-Lamare Bogarde,DEF,Aston Villa,2,6,0,0,0,0,0,0,-1,0,0,0,-3
-Daniel Jebbison,FWD,Bournemouth,2,0,0,0,0,0,0,0,0,0,0,0,0
+Kieran Tierney,DEF,Arsenal,2,0,0,0,0,0,0,0,0,0,0,0,2
+Donyell Malen,MID,Aston Villa,2,0,0,0,0,0,0,0,0,0,0,0,0
+Ben Winterburn,MID,Bournemouth,2,0,0,0,0,0,0,0,0,0,0,0,0
 Kim Ji-soo,DEF,Brentford,2,0,0,0,0,0,0,0,0,0,0,0,2
 Frank Onyeka,MID,Brentford,2,0,0,0,0,0,0,0,0,0,0,0,0
-Adam Webster,DEF,Brighton,2,2,0,0,0,0,0,0,0,0,0,0,0
-Marc Guiu Paz,FWD,Chelsea,2,0,0,0,0,0,0,0,0,0,0,0,0
-Josh Acheampong,DEF,Chelsea,2,2,0,0,0,0,0,0,0,0,0,0,0
+Hákon Valdimarsson,GKP,Brentford,2,2,0,0,0,1,0,0,0,0,0,0,-1
+Diego Gómez,MID,Brighton,2,0,0,0,0,0,0,0,0,0,0,0,0
 Asher Agbinone,MID,Crystal Palace,2,0,0,0,0,0,0,0,0,0,0,0,0
 Caleb Kporha,DEF,Crystal Palace,2,0,0,0,0,0,0,0,0,0,0,0,2
 Harrison Armstrong,MID,Everton,2,0,0,0,0,0,0,0,-1,0,0,0,0
-Ryan Sessegnon,DEF,Fulham,2,0,0,0,0,0,0,0,0,0,0,0,2
 Marcus Myers-Harness,MID,Ipswich,2,0,0,0,0,0,0,0,0,0,0,0,0
+Conor Townsend,DEF,Ipswich,2,0,0,0,0,0,0,0,0,0,0,0,2
+Kieran McKenna,MNG,Ipswich,2,0,0,0,0,0,0,0,0,0,0,0,0
 Ricardo Barbosa Pereira,DEF,Leicester,2,4,0,0,0,0,0,0,-1,0,0,0,-1
 Danny Ward,GKP,Leicester,2,2,0,0,0,1,0,0,0,0,0,0,-1
+Woyo Coulibaly,DEF,Leicester,2,0,0,0,0,0,0,0,0,0,0,0,2
 Rodrigo 'Rodri' Hernandez,MID,Man City,2,2,0,0,0,0,0,0,0,0,0,0,0
+Tyrell Malacia,DEF,Man Utd,2,2,0,0,0,0,0,0,-1,0,0,0,1
 Scott McTominay,MID,Man Utd,2,0,0,0,0,0,0,0,0,0,0,0,0
 Luke Shaw,DEF,Man Utd,2,0,0,0,0,0,0,0,0,0,0,0,2
-Lewis Miley,MID,Newcastle,2,0,0,0,0,0,0,0,0,0,0,0,0
 Eric da Silva Moreira,MID,Nott'm Forest,2,0,0,0,0,0,0,0,0,0,0,0,0
-Will Lankshear,FWD,Spurs,2,0,0,0,0,0,0,0,0,0,0,0,0
-Ollie Scarles,DEF,West Ham,2,0,0,0,0,0,0,0,0,0,0,0,2
+Albert Grønbæk,MID,Southampton,2,2,0,0,0,0,0,0,0,0,0,0,0
+Lewis Orford,MID,West Ham,2,0,0,0,0,0,0,0,0,0,0,0,0
 Daniel Castelo Podence,MID,Wolves,2,0,0,0,0,0,0,0,0,0,0,0,0
 Tomiyasu Takehiro,DEF,Arsenal,1,0,0,0,0,0,0,0,0,0,0,0,1
 Robin Olsen,GKP,Aston Villa,1,0,0,0,0,0,0,0,0,0,0,0,1
-Ben Winterburn,MID,Bournemouth,1,0,0,0,0,0,0,0,0,0,0,0,0
-Hákon Valdimarsson,GKP,Brentford,1,0,0,0,0,0,0,0,0,0,0,0,1
+Andrés García,DEF,Aston Villa,1,1,0,0,0,0,0,0,0,0,0,0,0
+Remy Rees-Dottin,FWD,Bournemouth,1,0,0,0,0,0,0,0,0,0,0,0,0
+Zain Silcott-Duberry,MID,Bournemouth,1,0,0,0,0,0,0,0,0,0,0,0,0
+Rico Henry,DEF,Brentford,1,0,0,0,0,0,0,0,0,0,0,0,1
 Ryan Trevitt,MID,Brentford,1,0,0,0,0,0,0,0,0,0,0,0,0
 Jayden Meghoma,DEF,Brentford,1,0,0,0,0,0,0,0,0,0,0,0,1
-Solly March,MID,Brighton,1,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Kayode,DEF,Brentford,1,0,0,0,0,0,0,0,0,0,0,0,1
+Solly March,MID,Brighton,1,0,0,0,0,0,0,0,-1,0,0,0,0
 Jeremy Sarmiento Morante,MID,Brighton,1,0,0,0,0,0,0,0,0,0,0,0,0
 Chadi Riad Dnanou,DEF,Crystal Palace,1,2,0,0,0,0,0,0,0,0,0,0,-1
 Mason Holgate,DEF,Everton,1,0,0,0,0,0,0,0,0,0,0,0,1
-Jake O'Brien,DEF,Everton,1,0,0,0,0,0,0,0,-1,0,0,0,2
+Carlos Alcaraz Durán,MID,Everton,1,0,0,0,0,0,0,0,0,0,0,0,0
 Jay Stansfield,FWD,Fulham,1,0,0,0,0,0,0,0,0,0,0,0,0
 Carlos Vinícius Alves Morais,FWD,Fulham,1,0,0,0,0,0,0,0,0,0,0,0,0
 Martial Godo,MID,Fulham,1,0,0,0,0,0,0,0,0,0,0,0,0
 Harry Clarke,DEF,Ipswich,1,8,0,0,0,0,0,0,-1,-3,-2,0,-1
 George Edmundson,DEF,Ipswich,1,0,0,0,0,0,0,0,0,0,0,0,1
-Conor Townsend,DEF,Ipswich,1,0,0,0,0,0,0,0,0,0,0,0,1
 Luke Thomas,DEF,Leicester,1,4,0,0,0,0,0,0,0,0,0,0,-3
 Will Alves,MID,Leicester,1,0,0,0,0,0,0,0,0,0,0,0,0
-Federico Chiesa,MID,Liverpool,1,0,0,0,0,0,0,0,0,0,0,0,0
 Vítezslav Jaros,GKP,Liverpool,1,0,0,0,0,0,0,0,0,0,0,0,1
+Jayden Danns,FWD,Liverpool,1,0,0,0,0,0,0,0,0,0,0,0,0
+Nico O'Reilly,MID,Man City,1,0,0,0,0,0,0,0,0,0,0,0,0
 Jahmai Simpson-Pusey,DEF,Man City,1,2,0,0,0,0,0,0,-1,0,0,0,0
-Tyrell Malacia,DEF,Man Utd,1,2,0,0,0,0,0,0,-1,0,0,0,0
-Toby Collyer,MID,Man Utd,1,0,0,0,0,0,0,0,0,0,0,0,0
-Sven Botman,DEF,Newcastle,1,2,0,0,0,0,0,0,-1,0,0,0,0
+Divin Mubama,FWD,Man City,1,0,0,0,0,0,0,0,0,0,0,0,0
 Matt Targett,DEF,Newcastle,1,0,0,0,0,0,0,0,0,0,0,0,1
-Danilo dos Santos de Oliveira,MID,Nott'm Forest,1,1,0,0,0,0,0,0,0,0,0,0,0
-Carlos Alcaraz Durán,MID,Southampton,1,0,0,0,0,0,0,0,0,0,0,0,0
 Samuel Amo-Ameyaw,MID,Southampton,1,0,0,0,0,0,0,0,-1,0,0,0,0
 Samuel Edozie,MID,Southampton,1,0,0,0,0,0,0,0,-1,0,0,0,0
 Ronnie Edwards,DEF,Southampton,1,0,0,0,0,0,0,0,0,0,0,0,1
 Maxwel Cornet,MID,Southampton,1,2,0,0,0,0,0,0,-1,0,0,0,0
+Welington Damascena Santos,DEF,Southampton,1,2,0,0,0,0,0,0,-1,0,0,0,0
 Brandon Austin,GKP,Spurs,1,2,0,0,0,0,0,0,0,0,0,0,-1
-Sergio Reguilón,DEF,Spurs,1,0,0,0,0,0,0,0,-1,0,0,0,2
+Sergio Reguilón,DEF,Spurs,1,0,0,0,0,0,0,0,-2,0,0,0,3
+Dane Scarlett,FWD,Spurs,1,0,0,0,0,0,0,0,0,0,0,0,0
 Alfie Dorrington,DEF,Spurs,1,0,0,0,0,0,0,0,0,0,0,0,1
 Kaelan Casey,DEF,West Ham,1,0,0,0,0,0,0,0,0,0,0,0,1
 Francisco Jorge Tomás Oliveira,MID,Wolves,1,0,0,0,0,0,0,0,0,0,0,0,0
 Alfie Pond,DEF,Wolves,1,0,0,0,0,0,0,0,0,0,0,0,1
 Fábio Ferreira Vieira,MID,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
 Karl Hein,GKP,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
-Kieran Tierney,DEF,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
 Salah-Eddine Oulad M'hand,MID,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tommy Setford,GKP,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maldini Kacurri,DEF,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ayden Heaven,DEF,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ismeal Kabia,MID,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
 Josh Nichols,DEF,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
 Nathan Butler-Oyedeji,FWD,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jack Porter,GKP,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
 Enzo Barrenechea,MID,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0
 Leander Dendoncker,MID,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0
 Moussa Diaby,MID,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -523,6 +561,7 @@ Oliwier Zych,GKP,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kadan Young,MID,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ben Broggio,MID,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jamaldeen Jimoh,MID,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marco Asensio,MID,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jaidon Anthony,MID,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
 Romain Faivre,MID,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hamed Traorè,MID,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -531,12 +570,13 @@ Alex Paulsen,GKP,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
 Will Dennis,GKP,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
 Max Kinsey,DEF,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
 Archie Harris,DEF,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
-Remy Rees-Dottin,FWD,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
 Matai Akinmboni,DEF,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
 Julio Soler,DEF,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniel Adu-Adjei,FWD,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dominic Sadi,MID,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
+Callan McKenna,GKP,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ethan Brierley,MID,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0
 Josh Dasilva,MID,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rico Henry,DEF,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0
 Aaron Hickey,DEF,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0
 Myles Peart-Harris,MID,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ivan Toney,FWD,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -544,6 +584,7 @@ Mathias Jorgensen,DEF,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gustavo Nunes Fernandes Gomes,MID,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tony Yogane,MID,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0
 Benjamin Arthur,DEF,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0
+Julian Eyestone,GKP,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0
 Benicio Baker-Boaitey,MID,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Valentín Barco,DEF,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Amario Cozier-Duberry,MID,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -562,13 +603,14 @@ Imari Samuels,DEF,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Killian Cahill,GKP,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ruairi McConville,DEF,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacob Slater,DEF,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
-Diego Gómez,MID,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fabian Hürzeler,MNG,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joe Knight,MID,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eiran Cashin,DEF,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Andrey Nascimento dos Santos,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ângelo Gabriel Borges Damaceno,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lucas Bergström,GKP,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marcus Bettinelli,GKP,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cesare Casadei,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ben Chilwell,DEF,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
 Carney Chukwuemeka,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
 David Datro Fofana,FWD,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
 Deivid Washington de Souza Eugênio,FWD,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -580,7 +622,8 @@ Malang Sarr,DEF,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
 Đorđe Petrović,GKP,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
 Caleb Wiley,DEF,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
 Samuel Rak-Sakyi,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tyrique George,MID,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tyrique George,MID,Chelsea,0,0,0,0,0,0,0,0,-1,0,0,0,0
+Ben Chilwell,DEF,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0
 Naouirou Ahamada,MID,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0
 Malcolm Ebiowei,MID,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rob Holding,DEF,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -600,6 +643,7 @@ Jenson Metcalfe,MID,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Asmir Begovic,GKP,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Roman Dixon,DEF,Everton,0,2,0,0,0,0,0,0,0,0,0,0,-2
 Callum Bates,MID,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+Martin Sherif,FWD,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Steven Benda,GKP,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0
 Luke Harris,MID,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kevin Mbabu,DEF,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -610,7 +654,8 @@ Cameron Humphreys,MID,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0
 Freddie Ladapo,FWD,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0
 Corrie Ndaba,DEF,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cieran Slicker,GKP,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ben Godfrey,DEF,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ben Godfrey,DEF,Ipswich,0,2,0,0,0,0,0,0,0,0,0,0,-2
+Alex Palmer,GKP,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tom Cannon,FWD,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0
 Michael Golding,MID,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0
 Daniel Iversen,GKP,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -629,27 +674,30 @@ Rhys Williams,DEF,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harvey Davies,GKP,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
 Treymaurice Nyoni,MID,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
 Amara Nallo,DEF,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jayden Danns,FWD,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oscar Bobb,MID,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scott Carson,GKP,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
 Julián Álvarez,FWD,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
 João Cavaco Cancelo,DEF,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
-Nico O'Reilly,MID,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
 Issa Kaboré,DEF,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacob Wright,MID,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
 Josh Wilson-Esbrand,DEF,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
-Divin Mubama,FWD,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
 Max Alleyne,DEF,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
 Spike Brits,GKP,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+Abdukodir Khusanov,DEF,Man City,0,1,0,0,0,0,0,0,-1,0,0,0,0
+Vitor de Oliveira Nunes dos Reis,DEF,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nico González,MID,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0
 Altay Bayindir,GKP,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hannibal Mejbri,MID,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tom Heaton,GKP,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0
 Facundo Pellistri Rebollo,MID,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ethan Wheatley,FWD,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ayden Heaven,DEF,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jack Fletcher,MID,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harry Amass,DEF,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jayce Fitzgerald,MID,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0
 Godwill Kukonki,DEF,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elyh Harrison,GKP,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0
+Patrick Dorgu,DEF,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alex Murphy,DEF,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0
 Isaac Hayden,MID,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0
 Garang Kuol,MID,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -670,6 +718,7 @@ Jonathan Panzo,DEF,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hwang Ui-jo,FWD,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
 Joe Worrall,DEF,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
 Zach Abbott,DEF,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wayne Hennessey,GKP,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gavin Bazunu,GKP,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Armel Bella-Kotchap,DEF,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Shea Charles,MID,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -677,14 +726,13 @@ Juan Larios López,DEF,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mateusz Lis,GKP,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sékou Mara,FWD,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Joseph O'Brien-Whitmarsh,MID,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
-Welington Damascena Santos,DEF,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joachim Kayi-Sanda,DEF,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ashley Phillips,DEF,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bryan Gil Salvatierra,MID,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alfie Devine,MID,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 Emerson Leite de Souza Junior,DEF,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pierre-Emile Højbjerg,MID,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 Giovani Lo Celso,MID,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
-Dane Scarlett,FWD,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 Manor Solomon,MID,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alejo Véliz,FWD,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alfie Whiteman,GKP,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -692,14 +740,16 @@ Callum Olusesi,MID,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 Malachi Hardy,DEF,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 Luca Williams-Barnett,MID,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maeson King,DEF,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
-Antonín Kinsky,GKP,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 Min-Hyeok Yang,MID,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
+Damola Ajayi,MID,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dante Cassanova,DEF,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kevin Danso,DEF,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mathys Tel,MID,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0
 George Earthy,MID,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wes Foderingham,GKP,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0
 Nayef Aguerd,DEF,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kurt Zouma,DEF,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ezra Mayers,DEF,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lewis Orford,MID,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boubacar Traoré,MID,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0
 Daniel Bentley,GKP,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tawanda Chirewa,MID,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -717,3 +767,5 @@ Pedro Cardoso de Lima,DEF,Wolves,0,1,0,0,0,0,0,0,0,0,0,0,-1
 Bastien Meupiyou,DEF,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tom Edozie,MID,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wes Okoduwa,DEF,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nasser Djiga,DEF,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marshall Munetsi,MID,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0

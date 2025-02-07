@@ -54,6 +54,7 @@ if result.returncode == 0:
 
     # Run players.py to process the dataset and update fpl_picks.db
     run_script("players.py")  
+    run_script("export.py")
 
 else:
     print(f"❌ Failed to download Kaggle dataset: {result.stderr}")
